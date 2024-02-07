@@ -1,0 +1,1139 @@
+1
+00:00:00,792 --> 00:00:03,837
+新しく街を作るなら
+どうすれば作れますか
+This subtitles are unapproved and need review/approval by TED translators.
+Visit https://www.ted.com/participate/translate to help translate and review talks.
+
+2
+00:00:05,047 --> 00:00:07,633
+簡単でないと分かりました
+This subtitles are unapproved and need review/approval by TED translators.
+
+3
+00:00:08,133 --> 00:00:09,718
+地形を調査し
+州から許可を得て
+This subtitles are unapproved and need review/approval by TED translators.
+
+4
+00:00:09,760 --> 00:00:12,262
+土地を買い
+人々がそこに移住するように
+This subtitles are unapproved and need review/approval by TED translators.
+
+5
+00:00:12,304 --> 00:00:14,014
+説得する必要があります
+This subtitles are unapproved and need review/approval by TED translators.
+
+6
+00:00:14,723 --> 00:00:17,851
+イーロン・マスクが
+火星に行けるようにしてくれるまでは
+This subtitles are unapproved and need review/approval by TED translators.
+
+7
+00:00:17,851 --> 00:00:19,895
+土地は限りある資源です
+This subtitles are unapproved and need review/approval by TED translators.
+
+8
+00:00:20,354 --> 00:00:23,023
+良い場所は
+既に全て誰かが所有しています
+This subtitles are unapproved and need review/approval by TED translators.
+
+9
+00:00:24,942 --> 00:00:28,987
+しかし 小さい 本当に小さいところから
+作れたらどうでしょうか
+This subtitles are unapproved and need review/approval by TED translators.
+
+10
+00:00:29,530 --> 00:00:31,240
+ツイートしてみました
+This subtitles are unapproved and need review/approval by TED translators.
+
+11
+00:00:33,075 --> 00:00:34,243
+こんな風に書きました
+This subtitles are unapproved and need review/approval by TED translators.
+
+12
+00:00:34,284 --> 00:00:36,870
+これなら やり方を練りだすのを
+助けてくれる人を世界中から
+This subtitles are unapproved and need review/approval by TED translators.
+
+13
+00:00:36,912 --> 00:00:38,539
+見つけられるからです
+[DAO で土地買うけど誰か一緒にやる？]
+This subtitles are unapproved and need review/approval by TED translators.
+
+14
+00:00:39,081 --> 00:00:41,875
+新しくネットで会った人たちと
+グループチャットを始めて
+This subtitles are unapproved and need review/approval by TED translators.
+
+15
+00:00:41,917 --> 00:00:43,502
+暗号資産を共同出資して
+This subtitles are unapproved and need review/approval by TED translators.
+
+16
+00:00:43,502 --> 00:00:45,128
+候補地を調べました
+This subtitles are unapproved and need review/approval by TED translators.
+
+17
+00:00:45,170 --> 00:00:46,755
+そして３ヵ月経って
+This subtitles are unapproved and need review/approval by TED translators.
+
+18
+00:00:46,797 --> 00:00:49,174
+40エーカーの土地を
+ワイオミング州の
+This subtitles are unapproved and need review/approval by TED translators.
+
+19
+00:00:49,216 --> 00:00:52,010
+イエローストーン国立公園の近くに
+買いました
+This subtitles are unapproved and need review/approval by TED translators.
+
+20
+00:00:53,595 --> 00:00:57,933
+土地を買ってお金を集めたら
+次に数多くのことをみんなで
+This subtitles are unapproved and need review/approval by TED translators.
+
+21
+00:00:57,975 --> 00:01:00,811
+決定する必要がでてきました
+This subtitles are unapproved and need review/approval by TED translators.
+
+22
+00:01:02,396 --> 00:01:05,524
+だから DAO を始めることにしました
+This subtitles are unapproved and need review/approval by TED translators.
+
+23
+00:01:05,566 --> 00:01:11,196
+CityDAO という名前で
+分散型自律組織と呼ばれるDAO 組織にしました
+This subtitles are unapproved and need review/approval by TED translators.
+
+24
+00:01:12,030 --> 00:01:16,243
+DAO の性質は最初からネット対応していて
+ブロックチェーンで統治され
+This subtitles are unapproved and need review/approval by TED translators.
+
+25
+00:01:16,285 --> 00:01:21,123
+共通のミッションに向けて
+全員で所有する組織です
+This subtitles are unapproved and need review/approval by TED translators.
+
+26
+00:01:21,957 --> 00:01:25,002
+多くのDAO では暗号資産を
+資金として集めて
+This subtitles are unapproved and need review/approval by TED translators.
+
+27
+00:01:25,043 --> 00:01:27,254
+どこに使うかを参加者が投票で決めます
+This subtitles are unapproved and need review/approval by TED translators.
+
+28
+00:01:29,256 --> 00:01:30,507
+伝統的な企業では
+This subtitles are unapproved and need review/approval by TED translators.
+
+29
+00:01:30,549 --> 00:01:35,053
+CEO が取締役陣と一緒に
+方向性や予算を調整し
+This subtitles are unapproved and need review/approval by TED translators.
+
+30
+00:01:35,053 --> 00:01:38,223
+実施に向けて組織図の下へと
+決定事項を落としていきます
+This subtitles are unapproved and need review/approval by TED translators.
+
+31
+00:01:39,182 --> 00:01:42,728
+DAO 組織では
+参加者みんなが同等な関係で活動し
+This subtitles are unapproved and need review/approval by TED translators.
+
+32
+00:01:42,769 --> 00:01:44,229
+資金を拠出し
+This subtitles are unapproved and need review/approval by TED translators.
+
+33
+00:01:44,271 --> 00:01:46,231
+プロジェクトの提案や
+参加をしたり
+This subtitles are unapproved and need review/approval by TED translators.
+
+34
+00:01:46,273 --> 00:01:48,609
+意思決定をみんなでしていきます
+This subtitles are unapproved and need review/approval by TED translators.
+
+35
+00:01:49,192 --> 00:01:54,156
+DAO ではトップダウンな運営ではなく
+ブロックチェーンで方針を記録したスマートコントラクトに
+This subtitles are unapproved and need review/approval by TED translators.
+
+36
+00:01:54,197 --> 00:01:56,325
+従った運営へと替わります
+This subtitles are unapproved and need review/approval by TED translators.
+
+37
+00:01:56,366 --> 00:02:00,412
+例えば 提案が通った
+あるプロジェクトの資金拠出については
+This subtitles are unapproved and need review/approval by TED translators.
+
+38
+00:02:02,623 --> 00:02:04,458
+伝統的な企業が成功すると
+This subtitles are unapproved and need review/approval by TED translators.
+
+39
+00:02:04,499 --> 00:02:07,628
+富が溜まる先は
+数名の創業者だったり
+This subtitles are unapproved and need review/approval by TED translators.
+
+40
+00:02:07,669 --> 00:02:09,046
+初期入社の従業員や
+This subtitles are unapproved and need review/approval by TED translators.
+
+41
+00:02:09,087 --> 00:02:12,007
+多くの場合 既に富裕層な投資家に還元されます
+This subtitles are unapproved and need review/approval by TED translators.
+
+42
+00:02:12,299 --> 00:02:14,926
+DAO では
+クリプトによる協力型組織で
+This subtitles are unapproved and need review/approval by TED translators.
+
+43
+00:02:14,968 --> 00:02:18,722
+より多くの人たちに
+小規模から所有する機会を与えることができます
+This subtitles are unapproved and need review/approval by TED translators.
+
+44
+00:02:18,764 --> 00:02:20,599
+経営に参加できて
+This subtitles are unapproved and need review/approval by TED translators.
+
+45
+00:02:20,641 --> 00:02:23,518
+上手くいった時の利益を
+享受することができます
+This subtitles are unapproved and need review/approval by TED translators.
+
+46
+00:02:25,062 --> 00:02:29,983
+CityDAO は 私が起業する際に
+官僚的でお役所仕事なことに対して感じた失望から
+This subtitles are unapproved and need review/approval by TED translators.
+
+47
+00:02:30,025 --> 00:02:31,234
+生まれました
+This subtitles are unapproved and need review/approval by TED translators.
+
+48
+00:02:31,276 --> 00:02:34,112
+空き駐車場を
+市が活用するのを支援する企業でした
+This subtitles are unapproved and need review/approval by TED translators.
+
+49
+00:02:35,280 --> 00:02:36,657
+その時は
+サンフランシスコで
+This subtitles are unapproved and need review/approval by TED translators.
+
+50
+00:02:36,657 --> 00:02:39,201
+駐車場を売る許可を取るのに
+3ヵ月以上かかりました
+This subtitles are unapproved and need review/approval by TED translators.
+
+51
+00:02:39,201 --> 00:02:41,953
+古い官僚的な手続きで悪夢のようでした
+This subtitles are unapproved and need review/approval by TED translators.
+
+52
+00:02:43,163 --> 00:02:45,957
+都市計画の専門家としての私自身が
+実施したかったことで
+This subtitles are unapproved and need review/approval by TED translators.
+
+53
+00:02:45,957 --> 00:02:49,878
+駐車場をより利用できるように
+お弁当販売の場を作ったり
+This subtitles are unapproved and need review/approval by TED translators.
+
+54
+00:02:49,878 --> 00:02:51,838
+物流拠点や住居だったり
+農産物の直売に
+This subtitles are unapproved and need review/approval by TED translators.
+
+55
+00:02:51,880 --> 00:02:53,006
+したかったのです
+This subtitles are unapproved and need review/approval by TED translators.
+
+56
+00:02:53,048 --> 00:02:56,343
+これは本当に手間がかかって
+何ヵ月どころか何年もかかったり
+This subtitles are unapproved and need review/approval by TED translators.
+
+57
+00:02:56,385 --> 00:02:58,720
+都市計画で
+単に違法なこともありえます
+This subtitles are unapproved and need review/approval by TED translators.
+
+58
+00:03:00,180 --> 00:03:03,183
+CityDAO は土地を買うほどの挑戦をした
+初期のDAO の１つです
+This subtitles are unapproved and need review/approval by TED translators.
+
+59
+00:03:03,850 --> 00:03:07,396
+官僚的な点に関しては
+現行の仕組みでは１ヶ月以上が
+This subtitles are unapproved and need review/approval by TED translators.
+
+60
+00:03:07,437 --> 00:03:08,939
+かかることです
+This subtitles are unapproved and need review/approval by TED translators.
+
+61
+00:03:08,980 --> 00:03:11,191
+旧来の方法では仲介業者を探し
+現地確認を調整し
+This subtitles are unapproved and need review/approval by TED translators.
+
+62
+00:03:11,233 --> 00:03:12,984
+買い付けや
+価格交渉をして
+This subtitles are unapproved and need review/approval by TED translators.
+
+63
+00:03:12,984 --> 00:03:14,319
+預かり金を出し
+This subtitles are unapproved and need review/approval by TED translators.
+
+64
+00:03:14,361 --> 00:03:15,904
+LLC を作り
+書類を作ります
+This subtitles are unapproved and need review/approval by TED translators.
+
+65
+00:03:16,446 --> 00:03:19,908
+CityDAO では オンチェーン上の
+町を想定しました
+This subtitles are unapproved and need review/approval by TED translators.
+
+66
+00:03:19,908 --> 00:03:21,910
+許可や予算や関連する法規や
+This subtitles are unapproved and need review/approval by TED translators.
+
+67
+00:03:21,952 --> 00:03:23,787
+権利証書のようなものは
+This subtitles are unapproved and need review/approval by TED translators.
+
+68
+00:03:23,829 --> 00:03:25,956
+すべてがブロックチェーン上に
+透明性を保って記録され
+This subtitles are unapproved and need review/approval by TED translators.
+
+69
+00:03:25,956 --> 00:03:28,750
+スマートコントラクトが
+取引を加速したり
+This subtitles are unapproved and need review/approval by TED translators.
+
+70
+00:03:28,792 --> 00:03:30,460
+官僚的度合いを下げられます
+This subtitles are unapproved and need review/approval by TED translators.
+
+71
+00:03:30,877 --> 00:03:32,170
+例をあげます
+This subtitles are unapproved and need review/approval by TED translators.
+
+72
+00:03:32,170 --> 00:03:34,047
+旧来の方法では数週間かかるような
+This subtitles are unapproved and need review/approval by TED translators.
+
+73
+00:03:34,047 --> 00:03:36,049
+土地を売買したり
+This subtitles are unapproved and need review/approval by TED translators.
+
+74
+00:03:36,091 --> 00:03:38,719
+土地にかかるローンを整えたりすることが
+This subtitles are unapproved and need review/approval by TED translators.
+
+75
+00:03:38,760 --> 00:03:42,013
+スマートコントラクトでは
+数秒で実現できます
+This subtitles are unapproved and need review/approval by TED translators.
+
+76
+00:03:45,726 --> 00:03:49,604
+DAO はまるで
+フラッシュモブを財務で行うかの様に
+This subtitles are unapproved and need review/approval by TED translators.
+
+77
+00:03:49,646 --> 00:03:53,692
+ひと晩であっという間に組織して
+アイデアの実現を追求することができます
+This subtitles are unapproved and need review/approval by TED translators.
+
+78
+00:03:54,067 --> 00:03:56,903
+通常DAO では
+大きな構想を持った数人が
+This subtitles are unapproved and need review/approval by TED translators.
+
+79
+00:03:56,903 --> 00:04:00,240
+事業を始めますが実施するのに多くの協力が
+必要だと気が付きます
+This subtitles are unapproved and need review/approval by TED translators.
+
+80
+00:04:03,243 --> 00:04:06,037
+そこで まずはグループチャットで
+コミュニティを作ります
+This subtitles are unapproved and need review/approval by TED translators.
+
+81
+00:04:06,037 --> 00:04:07,873
+Discord (ディスコード)
+というツールが
+This subtitles are unapproved and need review/approval by TED translators.
+
+82
+00:04:07,873 --> 00:04:09,833
+広く使われ
+毎週のコミュニティの会議でも
+This subtitles are unapproved and need review/approval by TED translators.
+
+83
+00:04:09,833 --> 00:04:12,419
+活用しながら
+案を共有し提案を話し合います
+This subtitles are unapproved and need review/approval by TED translators.
+
+84
+00:04:13,044 --> 00:04:16,548
+専用の場所の中に
+チームやプロジェクト単位のチャンネルを設定します
+This subtitles are unapproved and need review/approval by TED translators.
+
+85
+00:04:16,548 --> 00:04:18,258
+正式な上長ではなく
+This subtitles are unapproved and need review/approval by TED translators.
+
+86
+00:04:18,300 --> 00:04:22,012
+チームには選ばれたファッシリテーターがいて
+定例会議を開きます
+This subtitles are unapproved and need review/approval by TED translators.
+
+87
+00:04:23,346 --> 00:04:26,767
+参加者はDAO に
+常勤や非常勤のどちらでも貢献できますが
+This subtitles are unapproved and need review/approval by TED translators.
+
+88
+00:04:26,808 --> 00:04:29,269
+よく使われるのは
+賞金を使う方法で
+This subtitles are unapproved and need review/approval by TED translators.
+
+89
+00:04:29,269 --> 00:04:31,021
+DAO に参加者が
+This subtitles are unapproved and need review/approval by TED translators.
+
+90
+00:04:31,062 --> 00:04:33,690
+作業できそうな細かなことを
+選んで貢献できます
+This subtitles are unapproved and need review/approval by TED translators.
+
+91
+00:04:35,650 --> 00:04:39,529
+DAO では主にガバナンストークンを
+売ることで初期資本を集めます
+This subtitles are unapproved and need review/approval by TED translators.
+
+92
+00:04:39,529 --> 00:04:42,741
+トークンはそのまま
+DAO 活動への投票権になります
+This subtitles are unapproved and need review/approval by TED translators.
+
+93
+00:04:43,366 --> 00:04:45,744
+だれもが公開市場で
+イーサリアムのような暗号資産で
+This subtitles are unapproved and need review/approval by TED translators.
+
+94
+00:04:45,786 --> 00:04:48,371
+トークンを買ったり
+This subtitles are unapproved and need review/approval by TED translators.
+
+95
+00:04:48,413 --> 00:04:51,041
+そのDAO に貢献することで
+トークンを獲得できます
+This subtitles are unapproved and need review/approval by TED translators.
+
+96
+00:04:51,082 --> 00:04:55,003
+貢献例としてはロゴを考案したり
+調査やコードを書くことがあります
+This subtitles are unapproved and need review/approval by TED translators.
+
+97
+00:04:56,797 --> 00:04:59,591
+CityDAO では
+５千人から
+This subtitles are unapproved and need review/approval by TED translators.
+
+98
+00:04:59,633 --> 00:05:03,720
+「シチズンシップ」というガバナンストークンで
+500万米ドルを集めました
+This subtitles are unapproved and need review/approval by TED translators.
+
+99
+00:05:03,762 --> 00:05:05,639
+市民は様々に投票できます
+This subtitles are unapproved and need review/approval by TED translators.
+
+100
+00:05:05,680 --> 00:05:07,933
+例えば次の購入地を選びます
+This subtitles are unapproved and need review/approval by TED translators.
+
+101
+00:05:08,308 --> 00:05:11,895
+DAO は銀行口座を使った
+グループチャットと呼ばれています
+This subtitles are unapproved and need review/approval by TED translators.
+
+102
+00:05:13,188 --> 00:05:14,731
+こんな印象を受けましたよね
+This subtitles are unapproved and need review/approval by TED translators.
+
+103
+00:05:14,731 --> 00:05:17,484
+「パートナーに
+銀行口座を知らせるだけでも
+This subtitles are unapproved and need review/approval by TED translators.
+
+104
+00:05:17,526 --> 00:05:18,735
+かなり難しいのに
+This subtitles are unapproved and need review/approval by TED translators.
+
+105
+00:05:18,735 --> 00:05:22,405
+DAO では ネット上の５千人に
+知らせるって言うのですか」
+This subtitles are unapproved and need review/approval by TED translators.
+
+106
+00:05:23,657 --> 00:05:25,992
+実はそんなに
+悪くもありません
+This subtitles are unapproved and need review/approval by TED translators.
+
+107
+00:05:25,992 --> 00:05:27,661
+ブロックチェーンが解決します
+This subtitles are unapproved and need review/approval by TED translators.
+
+108
+00:05:27,702 --> 00:05:31,540
+投資金は公開されたブロックチェーンで資金管理をしているので
+This subtitles are unapproved and need review/approval by TED translators.
+
+109
+00:05:31,540 --> 00:05:34,376
+歳入や歳出を
+誰でも確認できます
+This subtitles are unapproved and need review/approval by TED translators.
+
+110
+00:05:34,417 --> 00:05:37,170
+DAO で
+支出や送金が起こる時は
+This subtitles are unapproved and need review/approval by TED translators.
+
+111
+00:05:37,212 --> 00:05:39,965
+提案をもとに
+DAO で承認が必要です
+This subtitles are unapproved and need review/approval by TED translators.
+
+112
+00:05:40,882 --> 00:05:43,051
+提案はDAO の参加者それぞれが書き
+This subtitles are unapproved and need review/approval by TED translators.
+
+113
+00:05:43,093 --> 00:05:46,346
+提案はアイデアから始まり
+議論され
+This subtitles are unapproved and need review/approval by TED translators.
+
+114
+00:05:46,388 --> 00:05:48,974
+トークン所有者による投票が行われます
+This subtitles are unapproved and need review/approval by TED translators.
+
+115
+00:05:49,015 --> 00:05:50,183
+例えば
+This subtitles are unapproved and need review/approval by TED translators.
+
+116
+00:05:50,225 --> 00:05:53,228
+CityDAO での初期の提案の１つには
+もちろんですが
+This subtitles are unapproved and need review/approval by TED translators.
+
+117
+00:05:53,270 --> 00:05:54,980
+どの土地を買うかです
+This subtitles are unapproved and need review/approval by TED translators.
+
+118
+00:05:56,314 --> 00:05:59,693
+このDAO では必須事項や任意事項を議論し
+This subtitles are unapproved and need review/approval by TED translators.
+
+119
+00:05:59,693 --> 00:06:03,780
+貢献する人たちがワイオミング州での
+土地物件を徹底的に調べて
+This subtitles are unapproved and need review/approval by TED translators.
+
+120
+00:06:03,822 --> 00:06:06,199
+ベスト３まで落とし込みました
+This subtitles are unapproved and need review/approval by TED translators.
+
+121
+00:06:06,199 --> 00:06:08,410
+それぞれの賛否を列挙し
+This subtitles are unapproved and need review/approval by TED translators.
+
+122
+00:06:08,451 --> 00:06:12,205
+DAO での投票のために
+最終化された提案を提示します
+This subtitles are unapproved and need review/approval by TED translators.
+
+123
+00:06:13,623 --> 00:06:18,253
+ワイオミング州のコーディの近くの
+パーセル０区画に投票で決定しました
+This subtitles are unapproved and need review/approval by TED translators.
+
+124
+00:06:18,962 --> 00:06:21,548
+決定理由は空港に近く
+This subtitles are unapproved and need review/approval by TED translators.
+
+125
+00:06:21,590 --> 00:06:24,551
+必需品な水を提供する地下水があって
+This subtitles are unapproved and need review/approval by TED translators.
+
+126
+00:06:24,593 --> 00:06:25,802
+もちろん
+This subtitles are unapproved and need review/approval by TED translators.
+
+127
+00:06:25,844 --> 00:06:29,014
+最も大切なこととしては
+有名なカニエ・ウエストに
+This subtitles are unapproved and need review/approval by TED translators.
+
+128
+00:06:29,014 --> 00:06:30,724
+近いことです
+This subtitles are unapproved and need review/approval by TED translators.
+
+129
+00:06:30,724 --> 00:06:31,766
+(笑)
+This subtitles are unapproved and need review/approval by TED translators.
+
+130
+00:06:31,808 --> 00:06:34,227
+失礼 失礼
+本当は基準ではありませんでしたが
+This subtitles are unapproved and need review/approval by TED translators.
+
+131
+00:06:34,227 --> 00:06:35,645
+たまたまでした
+This subtitles are unapproved and need review/approval by TED translators.
+
+132
+00:06:35,687 --> 00:06:39,816
+私たちの土地は
+カニエ・ウエストのコーディの牧場からそれほど遠くなかったです
+This subtitles are unapproved and need review/approval by TED translators.
+
+133
+00:06:42,736 --> 00:06:43,945
+CityDAO では
+This subtitles are unapproved and need review/approval by TED translators.
+
+134
+00:06:43,987 --> 00:06:46,489
+次の手順としては土地をどう使い
+誰がいつ使えるかを
+This subtitles are unapproved and need review/approval by TED translators.
+
+135
+00:06:46,531 --> 00:06:48,116
+投票することでした
+This subtitles are unapproved and need review/approval by TED translators.
+
+136
+00:06:49,075 --> 00:06:52,203
+他の提案で浮かび上がってきたものには
+This subtitles are unapproved and need review/approval by TED translators.
+
+137
+00:06:52,245 --> 00:06:56,374
+密林を保護するために
+アマゾンの土地を買うことだったり
+This subtitles are unapproved and need review/approval by TED translators.
+
+138
+00:06:56,374 --> 00:07:00,295
+DAO で土地活用している組織の集団を作って
+それぞれの市民がお互いの都市を
+This subtitles are unapproved and need review/approval by TED translators.
+
+139
+00:07:00,295 --> 00:07:02,088
+いつでも自由に
+This subtitles are unapproved and need review/approval by TED translators.
+
+140
+00:07:02,130 --> 00:07:04,424
+訪れるようにするものでした
+This subtitles are unapproved and need review/approval by TED translators.
+
+141
+00:07:07,761 --> 00:07:12,265
+今日では 様々なDAO 組織が
+協働で実に興味深いことをしているのを見かけます
+This subtitles are unapproved and need review/approval by TED translators.
+
+142
+00:07:12,307 --> 00:07:15,060
+製品を作ったり
+スタートアップに投資したり
+This subtitles are unapproved and need review/approval by TED translators.
+
+143
+00:07:15,101 --> 00:07:16,561
+芸術品や資産を買ったり
+This subtitles are unapproved and need review/approval by TED translators.
+
+144
+00:07:16,561 --> 00:07:18,897
+研究資金を提供したり
+資金を集めています
+This subtitles are unapproved and need review/approval by TED translators.
+
+145
+00:07:19,189 --> 00:07:20,982
+少し例を見てみましょう
+This subtitles are unapproved and need review/approval by TED translators.
+
+146
+00:07:22,233 --> 00:07:27,447
+ConstitutionDAO では
+７日間で4,700万米ドルを集めました
+This subtitles are unapproved and need review/approval by TED translators.
+
+147
+00:07:27,489 --> 00:07:30,700
+米国憲法の原本を
+購入しようとしたものです
+This subtitles are unapproved and need review/approval by TED translators.
+
+148
+00:07:31,409 --> 00:07:35,038
+通常であれば 会社を設立し
+銀行口座を開くだけで
+This subtitles are unapproved and need review/approval by TED translators.
+
+149
+00:07:35,080 --> 00:07:36,414
+７日間かかります
+This subtitles are unapproved and need review/approval by TED translators.
+
+150
+00:07:37,040 --> 00:07:41,002
+クラウスハウスではNBA のチームを
+リンクスDAO ではゴルフ場を買っています
+This subtitles are unapproved and need review/approval by TED translators.
+
+151
+00:07:41,461 --> 00:07:44,172
+DAO の参加者は
+主要な事柄に関わりやすいです
+This subtitles are unapproved and need review/approval by TED translators.
+
+152
+00:07:44,172 --> 00:07:47,384
+参加者のチームが誰からコーチングを受けるかや
+ゴルフ場を作る場所です
+This subtitles are unapproved and need review/approval by TED translators.
+
+153
+00:07:48,301 --> 00:07:52,263
+PleasrDAO では芸術作品や
+NFT のようなデジタル資産を収集しています
+This subtitles are unapproved and need review/approval by TED translators.
+
+154
+00:07:53,139 --> 00:07:56,267
+また 発売していないウータン・クランのアルバムの
+This subtitles are unapproved and need review/approval by TED translators.
+
+155
+00:07:56,267 --> 00:07:58,520
+唯一現存する品物を最近購入しました
+This subtitles are unapproved and need review/approval by TED translators.
+
+156
+00:07:58,561 --> 00:08:01,189
+今では世界でも
+このDAO の参加者だけが
+This subtitles are unapproved and need review/approval by TED translators.
+
+157
+00:08:01,231 --> 00:08:02,983
+合法に視聴できます
+This subtitles are unapproved and need review/approval by TED translators.
+
+158
+00:08:04,401 --> 00:08:07,070
+VectorDAO ではデザイナーが集まって
+参加者が
+This subtitles are unapproved and need review/approval by TED translators.
+
+159
+00:08:07,112 --> 00:08:08,697
+自分のプロジェクト作品の権利を持ち
+This subtitles are unapproved and need review/approval by TED translators.
+
+160
+00:08:08,697 --> 00:08:12,534
+代理店が権利を持つ
+現在の仕組みを揺さぶっています
+This subtitles are unapproved and need review/approval by TED translators.
+
+161
+00:08:15,829 --> 00:08:19,207
+メタカルテルやシードクラブのようなDAO では
+This subtitles are unapproved and need review/approval by TED translators.
+
+162
+00:08:19,207 --> 00:08:22,836
+見込みのあるスタートアップやプロジェクトの
+応募作品を評価して
+This subtitles are unapproved and need review/approval by TED translators.
+
+163
+00:08:22,877 --> 00:08:24,671
+どれに出資するか決めます
+This subtitles are unapproved and need review/approval by TED translators.
+
+164
+00:08:25,422 --> 00:08:27,465
+VitaDAO は調査に出資します
+This subtitles are unapproved and need review/approval by TED translators.
+
+165
+00:08:27,507 --> 00:08:30,927
+最近では UkraineDAO が
+ウクライナの防衛費への寄付で
+This subtitles are unapproved and need review/approval by TED translators.
+
+166
+00:08:30,969 --> 00:08:33,430
+600万米ドルを集めました
+This subtitles are unapproved and need review/approval by TED translators.
+
+167
+00:08:36,850 --> 00:08:39,144
+DAO 組織はまだ初期段階にありますが
+This subtitles are unapproved and need review/approval by TED translators.
+
+168
+00:08:39,185 --> 00:08:41,271
+全てに適しているわけではありません
+This subtitles are unapproved and need review/approval by TED translators.
+
+169
+00:08:41,813 --> 00:08:44,232
+DAO では合意形成が
+組織それぞれの深さで必要で
+This subtitles are unapproved and need review/approval by TED translators.
+
+170
+00:08:44,274 --> 00:08:46,067
+責任者が1人で決定を下すような
+This subtitles are unapproved and need review/approval by TED translators.
+
+171
+00:08:46,109 --> 00:08:48,194
+通常の会社よりも時間がかかります
+This subtitles are unapproved and need review/approval by TED translators.
+
+172
+00:08:48,653 --> 00:08:53,158
+ConstitutionDAO の件は
+サザビーのオークションでシタデルのCEO が落札し
+This subtitles are unapproved and need review/approval by TED translators.
+
+173
+00:08:53,199 --> 00:08:54,701
+結局負けました
+This subtitles are unapproved and need review/approval by TED translators.
+
+174
+00:08:55,118 --> 00:08:58,329
+DAO の高い透明性や
+分散できていることによって
+This subtitles are unapproved and need review/approval by TED translators.
+
+175
+00:08:58,371 --> 00:09:01,499
+組織内での調整を難しく
+競り勝てなかったとも言われました
+This subtitles are unapproved and need review/approval by TED translators.
+
+176
+00:09:03,501 --> 00:09:06,755
+伝統的な会社構造であれば
+十分に実践経験がある一方で
+This subtitles are unapproved and need review/approval by TED translators.
+
+177
+00:09:06,796 --> 00:09:08,590
+DAO は新しい形の組織で
+This subtitles are unapproved and need review/approval by TED translators.
+
+178
+00:09:08,590 --> 00:09:12,052
+その形はまだ
+法整備での未知の海原にいるようなものです
+This subtitles are unapproved and need review/approval by TED translators.
+
+179
+00:09:13,011 --> 00:09:15,013
+これらの課題を解決しやすくするために
+This subtitles are unapproved and need review/approval by TED translators.
+
+180
+00:09:15,055 --> 00:09:19,184
+ワイオミングのような州では
+DAO を網羅するような法律を新たに制定しています
+This subtitles are unapproved and need review/approval by TED translators.
+
+181
+00:09:19,684 --> 00:09:24,022
+実際に 私たちのCityDAO では
+土地購入の際に新法の１つを使いました
+This subtitles are unapproved and need review/approval by TED translators.
+
+182
+00:09:24,064 --> 00:09:25,482
+だからワイオミングなのです
+This subtitles are unapproved and need review/approval by TED translators.
+
+183
+00:09:27,734 --> 00:09:29,527
+揉め事が片付いてしまえば
+This subtitles are unapproved and need review/approval by TED translators.
+
+184
+00:09:29,527 --> 00:09:33,656
+DAO には経済的な機会を増やし
+所有からもたらされる より高い利益を
+This subtitles are unapproved and need review/approval by TED translators.
+
+185
+00:09:33,698 --> 00:09:37,535
+より多くの人が享受可能にするような
+潜在的な力があります
+This subtitles are unapproved and need review/approval by TED translators.
+
+186
+00:09:38,536 --> 00:09:41,915
+例えば 不動産 スポーツチーム
+芸術作品などのようなものは
+This subtitles are unapproved and need review/approval by TED translators.
+
+187
+00:09:42,499 --> 00:09:44,667
+概して富裕層の個人が
+This subtitles are unapproved and need review/approval by TED translators.
+
+188
+00:09:44,667 --> 00:09:46,795
+所有するような傾向がありますが
+This subtitles are unapproved and need review/approval by TED translators.
+
+189
+00:09:46,836 --> 00:09:50,215
+いまでは DAO 組織が購入したり
+民主化しています
+This subtitles are unapproved and need review/approval by TED translators.
+
+190
+00:09:52,217 --> 00:09:57,263
+次のソーシャルネットワークやネットタクシーのアプリが
+DAO だったらと想像してください
+This subtitles are unapproved and need review/approval by TED translators.
+
+191
+00:09:57,597 --> 00:10:01,226
+価値のあるコンテンツを投稿したり
+深夜のタクシーを運転するようになったら
+This subtitles are unapproved and need review/approval by TED translators.
+
+192
+00:10:01,226 --> 00:10:04,270
+その提供基盤の所有権の一部を
+獲得することになります
+This subtitles are unapproved and need review/approval by TED translators.
+
+193
+00:10:04,896 --> 00:10:07,857
+そして 所有がつまりは
+DAO での投票権を意味するので
+This subtitles are unapproved and need review/approval by TED translators.
+
+194
+00:10:07,857 --> 00:10:11,486
+もし より公平だったり良い方法と
+考える事柄があれば
+This subtitles are unapproved and need review/approval by TED translators.
+
+195
+00:10:11,528 --> 00:10:14,489
+投票権を使って基盤への変更を
+提案することも可能です
+This subtitles are unapproved and need review/approval by TED translators.
+
+196
+00:10:16,407 --> 00:10:19,202
+人類は農業のおかげで
+都市に住めるようになりました
+This subtitles are unapproved and need review/approval by TED translators.
+
+197
+00:10:20,286 --> 00:10:23,331
+インターネットのおかげで
+全世界に情報を共有できます
+This subtitles are unapproved and need review/approval by TED translators.
+
+198
+00:10:23,873 --> 00:10:27,710
+そして今 DAO によって
+より大きな課題に対して
+This subtitles are unapproved and need review/approval by TED translators.
+
+199
+00:10:27,710 --> 00:10:29,003
+一緒に努めたり
+This subtitles are unapproved and need review/approval by TED translators.
+
+200
+00:10:29,045 --> 00:10:31,422
+お互いを信じたり
+This subtitles are unapproved and need review/approval by TED translators.
+
+201
+00:10:31,422 --> 00:10:34,551
+かつてなかったような
+より公平な方法で協力できます
+This subtitles are unapproved and need review/approval by TED translators.
+
+202
+00:10:35,343 --> 00:10:39,389
+DAO によって次の偉大な街でさえも
+作れるかもしれません
+This subtitles are unapproved and need review/approval by TED translators.
+
+203
+00:10:39,931 --> 00:10:41,099
+ありがとうございます
+This subtitles are unapproved and need review/approval by TED translators.
+
+204
+00:10:41,099 --> 00:10:45,395
+(拍手)
