@@ -1,0 +1,1774 @@
+1
+00:00:00,542 --> 00:00:03,420
+クリス・アンダーソン(CA)：シェーンさん あなたは
+This subtitles are unapproved and need review/approval by TED translators.
+Visit https://www.ted.com/participate/translate to help translate and review talks.
+
+2
+00:00:03,420 --> 00:00:06,882
+成長期はどんな人で
+一体何がきっかけで人工知能に興味を持ったのですか
+This subtitles are unapproved and need review/approval by TED translators.
+
+3
+00:00:06,924 --> 00:00:11,553
+シェーン・レッグ: そうですね 私は10歳の誕生日に
+初めて家庭用PCを手にしました
+This subtitles are unapproved and need review/approval by TED translators.
+
+4
+00:00:11,595 --> 00:00:13,305
+それは
+This subtitles are unapproved and need review/approval by TED translators.
+
+5
+00:00:13,347 --> 00:00:15,474
+インターネットなどが登場する前のことです
+This subtitles are unapproved and need review/approval by TED translators.
+
+6
+00:00:15,474 --> 00:00:18,018
+だから ウェブを巡るって調べることはできませんでした
+This subtitles are unapproved and need review/approval by TED translators.
+
+7
+00:00:18,060 --> 00:00:20,604
+実際に自分で考えてプログラムする必要がありました
+This subtitles are unapproved and need review/approval by TED translators.
+
+8
+00:00:20,646 --> 00:00:22,231
+なのでプログラミングを始めました
+This subtitles are unapproved and need review/approval by TED translators.
+
+9
+00:00:22,231 --> 00:00:25,692
+そしてこのコンピューターの中に世界があって
+This subtitles are unapproved and need review/approval by TED translators.
+
+10
+00:00:25,734 --> 00:00:27,152
+世界を作ることができ
+This subtitles are unapproved and need review/approval by TED translators.
+
+11
+00:00:27,152 --> 00:00:29,905
+走り回ったりお互いを追いかけたり何かをするような
+This subtitles are unapproved and need review/approval by TED translators.
+
+12
+00:00:29,947 --> 00:00:32,074
+代理で動く係を作れることを発見しました
+This subtitles are unapproved and need review/approval by TED translators.
+
+13
+00:00:32,074 --> 00:00:34,660
+そして この宇宙全体に命を吹き込むことができました
+This subtitles are unapproved and need review/approval by TED translators.
+
+14
+00:00:34,701 --> 00:00:39,039
+私を本当に魅了した創造性の輝きのようなものがあり
+This subtitles are unapproved and need review/approval by TED translators.
+
+15
+00:00:39,039 --> 00:00:41,959
+それが私の興味の種となり
+This subtitles are unapproved and need review/approval by TED translators.
+
+16
+00:00:42,000 --> 00:00:43,460
+のちに育ち
+This subtitles are unapproved and need review/approval by TED translators.
+
+17
+00:00:43,460 --> 00:00:45,837
+人工知能への興味繋がったのだと思います
+This subtitles are unapproved and need review/approval by TED translators.
+
+18
+00:00:45,879 --> 00:00:49,675
+CA：標準的な教育課程では
+あなたには ひと苦労あったそうですね
+This subtitles are unapproved and need review/approval by TED translators.
+
+19
+00:00:49,675 --> 00:00:53,262
+SL：ええ 私は子供の頃 ディスレクシア(失読症)でした
+This subtitles are unapproved and need review/approval by TED translators.
+
+20
+00:00:53,303 --> 00:00:57,099
+それで実際 彼らは私が10歳のときに
+履修内容を１年間
+This subtitles are unapproved and need review/approval by TED translators.
+
+21
+00:00:57,099 --> 00:00:58,517
+遅らせるつもりで
+This subtitles are unapproved and need review/approval by TED translators.
+
+22
+00:00:58,559 --> 00:01:01,144
+私の問題のひどさを評価するためのIQ テストを
+This subtitles are unapproved and need review/approval by TED translators.
+
+23
+00:01:01,186 --> 00:01:03,397
+受けさせるために私を送り出しました
+This subtitles are unapproved and need review/approval by TED translators.
+
+24
+00:01:03,730 --> 00:01:07,067
+そして彼らは私のIQ が非常に高いことを発見しました
+This subtitles are unapproved and need review/approval by TED translators.
+
+25
+00:01:07,109 --> 00:01:10,237
+そして彼らは何が起こっているのか少し混乱していました
+This subtitles are unapproved and need review/approval by TED translators.
+
+26
+00:01:10,237 --> 00:01:11,863
+そして幸運なことに 当時
+This subtitles are unapproved and need review/approval by TED translators.
+
+27
+00:01:11,905 --> 00:01:14,241
+私が住んでいた町には失読症の検査方法を
+This subtitles are unapproved and need review/approval by TED translators.
+
+28
+00:01:14,283 --> 00:01:16,034
+知っている人がいました
+This subtitles are unapproved and need review/approval by TED translators.
+
+29
+00:01:16,076 --> 00:01:19,454
+そして 実のところ
+私は知能が低いわけではなかったことが判明し
+This subtitles are unapproved and need review/approval by TED translators.
+
+30
+00:01:19,496 --> 00:01:21,915
+私は失読症で それが引き起こしていました
+This subtitles are unapproved and need review/approval by TED translators.
+
+31
+00:01:21,957 --> 00:01:24,167
+CA：あなたには幼い頃から知能に関する
+This subtitles are unapproved and need review/approval by TED translators.
+
+32
+00:01:24,209 --> 00:01:27,921
+私たちの標準的な仮定が少しずれている可能性を
+信じる理由があったのですね
+This subtitles are unapproved and need review/approval by TED translators.
+
+33
+00:01:27,921 --> 00:01:31,925
+SL：そうですね 私には幼い頃から
+時々権威を疑う理由がありました
+This subtitles are unapproved and need review/approval by TED translators.
+
+34
+00:01:31,925 --> 00:01:32,926
+(笑)
+This subtitles are unapproved and need review/approval by TED translators.
+
+35
+00:01:32,968 --> 00:01:36,054
+先生があなたをバカだと思っていても
+真実ではないかもしれません
+This subtitles are unapproved and need review/approval by TED translators.
+
+36
+00:01:36,054 --> 00:01:38,223
+他にも何か理由があるのかもしれません
+This subtitles are unapproved and need review/approval by TED translators.
+
+37
+00:01:38,265 --> 00:01:42,894
+しかし 子供の頃にそのような経験をしたことが
+This subtitles are unapproved and need review/approval by TED translators.
+
+38
+00:01:42,936 --> 00:01:45,731
+私に知能への興味を生み出したのだと思います
+This subtitles are unapproved and need review/approval by TED translators.
+
+39
+00:01:45,772 --> 00:01:47,232
+CA：つまり あなたは
+This subtitles are unapproved and need review/approval by TED translators.
+
+40
+00:01:47,274 --> 00:01:50,861
+「汎用人工知能(AGI)」という用語を作った人として
+多くの人が認めていますね
+This subtitles are unapproved and need review/approval by TED translators.
+
+41
+00:01:50,902 --> 00:01:53,614
+2001年に 何があったのですか？
+This subtitles are unapproved and need review/approval by TED translators.
+
+42
+00:01:53,614 --> 00:01:57,284
+SL：そうですね 実は一緒に仕事をしていた
+This subtitles are unapproved and need review/approval by TED translators.
+
+43
+00:01:57,284 --> 00:01:58,994
+ベン・ゲルツェルさんから連絡があり
+This subtitles are unapproved and need review/approval by TED translators.
+
+44
+00:01:58,994 --> 00:02:01,121
+本を書く予定があり
+This subtitles are unapproved and need review/approval by TED translators.
+
+45
+00:02:01,163 --> 00:02:04,666
+非常に狭いことに能力が集中しているAI システムではなく
+This subtitles are unapproved and need review/approval by TED translators.
+
+46
+00:02:04,666 --> 00:02:06,752
+より汎用的で有能な
+This subtitles are unapproved and need review/approval by TED translators.
+
+47
+00:02:06,752 --> 00:02:09,212
+AI システムのことを書こうと考えていました
+This subtitles are unapproved and need review/approval by TED translators.
+
+48
+00:02:09,546 --> 00:02:11,757
+また 彼は本の題名を考えていたので
+This subtitles are unapproved and need review/approval by TED translators.
+
+49
+00:02:11,757 --> 00:02:15,052
+「非常に汎用的なシステムに興味があるなら
+汎用人工知能と呼べばいい」
+This subtitles are unapproved and need review/approval by TED translators.
+
+50
+00:02:15,052 --> 00:02:17,012
+と彼に提案しました
+This subtitles are unapproved and need review/approval by TED translators.
+
+51
+00:02:17,054 --> 00:02:18,263
+彼はそれを使うことにしました
+This subtitles are unapproved and need review/approval by TED translators.
+
+52
+00:02:18,263 --> 00:02:21,433
+彼や他のさまざまな人々が
+オンラインやインターネットという
+This subtitles are unapproved and need review/approval by TED translators.
+
+53
+00:02:21,433 --> 00:02:22,643
+用語を使い始めて
+This subtitles are unapproved and need review/approval by TED translators.
+
+54
+00:02:22,643 --> 00:02:24,978
+そこから いわゆる普及が始まりました
+This subtitles are unapproved and need review/approval by TED translators.
+
+55
+00:02:25,020 --> 00:02:27,731
+後に マイク・ガロッドという人物がいて
+This subtitles are unapproved and need review/approval by TED translators.
+
+56
+00:02:27,731 --> 00:02:32,027
+彼が1997年のセキュリティ・ナノテクジャーナルに
+論文を発表していたと分かりました
+This subtitles are unapproved and need review/approval by TED translators.
+
+57
+00:02:32,069 --> 00:02:34,780
+つまり実際には 彼が最初に この用語を使用しました
+This subtitles are unapproved and need review/approval by TED translators.
+
+58
+00:02:34,780 --> 00:02:38,075
+しかし 結局のところ 彼は
+私たちとほぼ同じことを言いたかったのです
+This subtitles are unapproved and need review/approval by TED translators.
+
+59
+00:02:38,116 --> 00:02:40,535
+CA：可能性を認識できる時期が来たというような
+This subtitles are unapproved and need review/approval by TED translators.
+
+60
+00:02:40,535 --> 00:02:42,746
+そんなアイデアでした
+This subtitles are unapproved and need review/approval by TED translators.
+
+61
+00:02:42,746 --> 00:02:46,958
+つまり あなたは多くの人に狂っていると
+受け取られそうな先進的な予測を行いました
+This subtitles are unapproved and need review/approval by TED translators.
+
+62
+00:02:46,958 --> 00:02:48,126
+これは何でしたか？
+This subtitles are unapproved and need review/approval by TED translators.
+
+63
+00:02:48,168 --> 00:02:50,879
+SL：そうですね 2001年頃の
+This subtitles are unapproved and need review/approval by TED translators.
+
+64
+00:02:50,921 --> 00:02:55,759
+私が汎用人工知能という
+この用語を提案したのと同じ時期に
+This subtitles are unapproved and need review/approval by TED translators.
+
+65
+00:02:55,759 --> 00:02:59,429
+レイ・カーツワイルの本
+そう『スピリチュアル・マシンの時代』を読みました
+This subtitles are unapproved and need review/approval by TED translators.
+
+66
+00:02:59,471 --> 00:03:03,266
+そして 私は彼は根本的に正しいと結論付けました
+This subtitles are unapproved and need review/approval by TED translators.
+
+67
+00:03:03,308 --> 00:03:09,022
+彼は 少なくとも数十年間は指数関数的に増加する可能性が高く
+世界のデータ量も数十年間で
+This subtitles are unapproved and need review/approval by TED translators.
+
+68
+00:03:09,064 --> 00:03:11,900
+指数関数的に増加すると
+This subtitles are unapproved and need review/approval by TED translators.
+
+69
+00:03:11,942 --> 00:03:13,110
+結論付けていました
+This subtitles are unapproved and need review/approval by TED translators.
+
+70
+00:03:13,110 --> 00:03:15,779
+それで私は それが起こるのであれば
+This subtitles are unapproved and need review/approval by TED translators.
+
+71
+00:03:15,779 --> 00:03:19,324
+拡大する全てのデータと計算を活用できるように
+This subtitles are unapproved and need review/approval by TED translators.
+
+72
+00:03:19,324 --> 00:03:22,619
+非常に柔軟に規模を拡張できるようなアルゴリズムの価値が
+This subtitles are unapproved and need review/approval by TED translators.
+
+73
+00:03:22,661 --> 00:03:24,496
+非常に高くなるだろうと考えました
+This subtitles are unapproved and need review/approval by TED translators.
+
+74
+00:03:24,496 --> 00:03:27,958
+そして 予想したのは 2020 年代半ばには
+人間が一生で経験するよりも
+This subtitles are unapproved and need review/approval by TED translators.
+
+75
+00:03:27,999 --> 00:03:29,459
+はるかに多くのデータでも
+This subtitles are unapproved and need review/approval by TED translators.
+
+76
+00:03:29,501 --> 00:03:32,212
+これらの拡張性の高いアルゴリズムがあれば
+This subtitles are unapproved and need review/approval by TED translators.
+
+77
+00:03:32,212 --> 00:03:36,466
+このデータを使って人工知能システムを学習させることが
+This subtitles are unapproved and need review/approval by TED translators.
+
+78
+00:03:36,508 --> 00:03:39,928
+可能になるだろうと考えました
+This subtitles are unapproved and need review/approval by TED translators.
+
+79
+00:03:39,970 --> 00:03:41,388
+その結果の予想は
+This subtitles are unapproved and need review/approval by TED translators.
+
+80
+00:03:41,430 --> 00:03:45,267
+これは2009年頃の私のブログでも確認できますが
+This subtitles are unapproved and need review/approval by TED translators.
+
+81
+00:03:45,308 --> 00:03:47,894
+これを公に話すのは初めてだと思います
+This subtitles are unapproved and need review/approval by TED translators.
+
+82
+00:03:47,936 --> 00:03:51,857
+私は2028年までに AGI が達成される可能性は
+50%だと予測していました
+This subtitles are unapproved and need review/approval by TED translators.
+
+83
+00:03:52,315 --> 00:03:54,651
+私は今でもそれを信じています
+This subtitles are unapproved and need review/approval by TED translators.
+
+84
+00:03:54,651 --> 00:03:56,319
+CA：まだ今もその予測なのですね
+This subtitles are unapproved and need review/approval by TED translators.
+
+85
+00:03:56,820 --> 00:04:00,866
+当時 AGI を何だと定義していましたか
+また その定義は変わりましたか？
+This subtitles are unapproved and need review/approval by TED translators.
+
+86
+00:04:01,324 --> 00:04:05,495
+SL：そうです 最初は特に正確な定義はありませんでした
+This subtitles are unapproved and need review/approval by TED translators.
+
+87
+00:04:05,537 --> 00:04:10,125
+実際 それは より汎用的なシステムを
+大まかに考えたものにすぎませんでした
+This subtitles are unapproved and need review/approval by TED translators.
+
+88
+00:04:10,167 --> 00:04:12,669
+つまり 単に囲碁やチェスなどをするのではなく
+This subtitles are unapproved and need review/approval by TED translators.
+
+89
+00:04:12,711 --> 00:04:15,672
+実際に非常に多くの異なることができるようになります
+This subtitles are unapproved and need review/approval by TED translators.
+
+90
+00:04:15,714 --> 00:04:18,258
+私が現在使用している定義は
+人間が実行できるような
+This subtitles are unapproved and need review/approval by TED translators.
+
+91
+00:04:18,258 --> 00:04:20,886
+あらゆる種類の認知タスクを実行できるシステムで
+This subtitles are unapproved and need review/approval by TED translators.
+
+92
+00:04:20,886 --> 00:04:23,430
+人間以上に上手に実行できる可能性のあるシステムですが
+This subtitles are unapproved and need review/approval by TED translators.
+
+93
+00:04:23,430 --> 00:04:25,849
+少なくとも 人間が通常実行できる種類の認知タスクは
+This subtitles are unapproved and need review/approval by TED translators.
+
+94
+00:04:25,849 --> 00:04:27,726
+実行できるものという定義です
+This subtitles are unapproved and need review/approval by TED translators.
+
+95
+00:04:27,768 --> 00:04:30,771
+CA：次にDeepMind の設立と
+This subtitles are unapproved and need review/approval by TED translators.
+
+96
+00:04:30,771 --> 00:04:34,816
+あなたと共同創設者の間の相互作用について話してください
+This subtitles are unapproved and need review/approval by TED translators.
+
+97
+00:04:34,816 --> 00:04:38,820
+SL：私はロンドンの理論神経科学と機械学習を研究している
+This subtitles are unapproved and need review/approval by TED translators.
+
+98
+00:04:38,862 --> 00:04:43,909
+ギャツビーユニットという場所に行きました
+This subtitles are unapproved and need review/approval by TED translators.
+
+99
+00:04:43,950 --> 00:04:46,328
+そして私は脳について私たちが理解していることと
+This subtitles are unapproved and need review/approval by TED translators.
+
+100
+00:04:46,328 --> 00:04:48,371
+機械学習から知っていることの間の関係を
+This subtitles are unapproved and need review/approval by TED translators.
+
+101
+00:04:48,371 --> 00:04:50,248
+学ぶことに興味がありました
+This subtitles are unapproved and need review/approval by TED translators.
+
+102
+00:04:50,248 --> 00:04:52,209
+そこは本当に良い場所のように感じました
+This subtitles are unapproved and need review/approval by TED translators.
+
+103
+00:04:52,209 --> 00:04:53,752
+そこでデミス・ハサビスに会いました
+This subtitles are unapproved and need review/approval by TED translators.
+
+104
+00:04:53,752 --> 00:04:55,754
+彼には私と同じ博士研究員の指導教官がいて
+This subtitles are unapproved and need review/approval by TED translators.
+
+105
+00:04:55,796 --> 00:04:57,047
+話をするようになりました
+This subtitles are unapproved and need review/approval by TED translators.
+
+106
+00:04:57,088 --> 00:04:59,716
+そして彼は その時が
+This subtitles are unapproved and need review/approval by TED translators.
+
+107
+00:04:59,758 --> 00:05:02,010
+起業する時期だと私に説得してくれました
+This subtitles are unapproved and need review/approval by TED translators.
+
+108
+00:05:02,010 --> 00:05:04,679
+2009 年に話し合い
+事業を始めました
+This subtitles are unapproved and need review/approval by TED translators.
+
+109
+00:05:04,721 --> 00:05:06,389
+ただ 私は少し懐疑的でした
+This subtitles are unapproved and need review/approval by TED translators.
+
+110
+00:05:06,389 --> 00:05:09,935
+AGI はまだ少し遠いと思っていましたが
+This subtitles are unapproved and need review/approval by TED translators.
+
+111
+00:05:09,935 --> 00:05:13,355
+彼は時期が来たと考えていたので
+実施することにしました
+This subtitles are unapproved and need review/approval by TED translators.
+
+112
+00:05:13,396 --> 00:05:16,566
+そして彼の友人には
+ムスタファ・スレイマンがいました
+This subtitles are unapproved and need review/approval by TED translators.
+
+113
+00:05:17,234 --> 00:05:19,736
+CA：会社の目標の１つは具体的にはAGI への道を
+This subtitles are unapproved and need review/approval by TED translators.
+
+114
+00:05:19,736 --> 00:05:21,571
+見つけることでしたか？
+This subtitles are unapproved and need review/approval by TED translators.
+
+115
+00:05:21,613 --> 00:05:22,948
+SL：もちろんです
+This subtitles are unapproved and need review/approval by TED translators.
+
+116
+00:05:22,948 --> 00:05:26,827
+2010年に投資家を探していたときに
+This subtitles are unapproved and need review/approval by TED translators.
+
+117
+00:05:26,868 --> 00:05:29,913
+回覧していた最初の事業計画には表紙に
+This subtitles are unapproved and need review/approval by TED translators.
+
+118
+00:05:29,913 --> 00:05:32,499
+一文が書かれていました
+This subtitles are unapproved and need review/approval by TED translators.
+
+119
+00:05:32,541 --> 00:05:35,252
+「世界初の汎用人工知能を構築する」でした
+This subtitles are unapproved and need review/approval by TED translators.
+
+120
+00:05:35,293 --> 00:05:37,963
+つまり それは最初から入っていました
+This subtitles are unapproved and need review/approval by TED translators.
+
+121
+00:05:38,547 --> 00:05:40,048
+CA：その AGI を構築すると
+This subtitles are unapproved and need review/approval by TED translators.
+
+
+122
+00:05:40,090 --> 00:05:44,427
+シナリオによっては 実は終末的な結果が
+もたらされる可能性があることが
+This subtitles are unapproved and need review/approval by TED translators.
+
+123
+00:05:44,469 --> 00:05:47,097
+わかっていたにも関わらずですか?
+This subtitles are unapproved and need review/approval by TED translators.
+
+124
+00:05:47,430 --> 00:05:48,640
+SL：そうですね
+This subtitles are unapproved and need review/approval by TED translators.
+
+125
+00:05:48,682 --> 00:05:53,353
+つまり これは大きな変化を及ぼす
+革新的なテクノロジーなのです
+This subtitles are unapproved and need review/approval by TED translators.
+
+126
+00:05:53,937 --> 00:05:55,522
+きっとそうなると信じています
+This subtitles are unapproved and need review/approval by TED translators.
+
+127
+00:05:56,356 --> 00:05:57,607
+これらのアルゴリズムは
+This subtitles are unapproved and need review/approval by TED translators.
+
+128
+00:05:57,649 --> 00:06:01,403
+理解される その時点では理解されそうだと思います
+This subtitles are unapproved and need review/approval by TED translators.
+
+129
+00:06:01,444 --> 00:06:04,406
+そして 知能は基本的に非常に価値あるものだと
+This subtitles are unapproved and need review/approval by TED translators.
+
+130
+00:06:04,406 --> 00:06:06,283
+思います
+This subtitles are unapproved and need review/approval by TED translators.
+
+131
+00:06:06,741 --> 00:06:09,578
+現在私たちの周りにあるすべてのもの
+私たちがいる建物や
+This subtitles are unapproved and need review/approval by TED translators.
+
+132
+00:06:09,578 --> 00:06:13,248
+私が使っている言葉や 私たちの概念や
+私たちの周りのテクノロジーなど
+This subtitles are unapproved and need review/approval by TED translators.
+
+133
+00:06:14,040 --> 00:06:17,127
+これらすべては知能の影響を受けています
+This subtitles are unapproved and need review/approval by TED translators.
+
+134
+00:06:17,168 --> 00:06:20,046
+したがって 機械に
+This subtitles are unapproved and need review/approval by TED translators.
+
+135
+00:06:20,088 --> 00:06:23,967
+知能を搭載することは
+開発にとって非常に価値のあることです
+This subtitles are unapproved and need review/approval by TED translators.
+
+136
+00:06:23,967 --> 00:06:25,969
+そして私はそれが来ると信じています
+This subtitles are unapproved and need review/approval by TED translators.
+
+137
+00:06:26,011 --> 00:06:30,140
+非常に強力なテクノロジーが登場すると
+This subtitles are unapproved and need review/approval by TED translators.
+
+138
+00:06:30,140 --> 00:06:32,767
+さまざまな結果が生じる可能性があります
+This subtitles are unapproved and need review/approval by TED translators.
+
+139
+00:06:32,809 --> 00:06:34,728
+物事が非常にうまくいく可能性もありますが
+This subtitles are unapproved and need review/approval by TED translators.
+
+140
+00:06:34,728 --> 00:06:37,314
+物事が悪化する可能性もあります
+This subtitles are unapproved and need review/approval by TED translators.
+
+141
+00:06:37,355 --> 00:06:42,319
+それは私も20年ほど前でも 気が付いていました
+This subtitles are unapproved and need review/approval by TED translators.
+
+142
+00:06:42,819 --> 00:06:46,072
+CA：では続いて DeepMind が成長するにつれて
+This subtitles are unapproved and need review/approval by TED translators.
+
+143
+00:06:46,072 --> 00:06:50,368
+「何ということだろうか
+信じられないほど強力なものを作ろうとしている」
+This subtitles are unapproved and need review/approval by TED translators.
+
+144
+00:06:50,410 --> 00:06:54,039
+と感じてしまうような瞬間はありましたか?
+This subtitles are unapproved and need review/approval by TED translators.
+
+145
+00:06:54,080 --> 00:06:58,376
+AlphaGo の時や 全体の進化だったり
+そんなことを感じた瞬間はいつでしたか？
+This subtitles are unapproved and need review/approval by TED translators.
+
+146
+00:06:58,418 --> 00:07:00,921
+SL: はい 何年も何回もそんな瞬間がありました
+This subtitles are unapproved and need review/approval by TED translators.
+
+147
+00:07:00,921 --> 00:07:03,131
+１回はアタリ製ゲームで試した時です
+This subtitles are unapproved and need review/approval by TED translators.
+
+148
+00:07:03,632 --> 00:07:04,883
+私たちのアルゴリズムが
+This subtitles are unapproved and need review/approval by TED translators.
+
+149
+00:07:04,925 --> 00:07:08,345
+個々のゲーム用にプログラムされていないのに
+複数のゲームの遊び方を
+This subtitles are unapproved and need review/approval by TED translators.
+
+150
+00:07:08,345 --> 00:07:10,597
+学んだ動画を見たことがありますか？
+This subtitles are unapproved and need review/approval by TED translators.
+
+151
+00:07:10,639 --> 00:07:13,934
+様々な興奮するような瞬間がありました
+This subtitles are unapproved and need review/approval by TED translators.
+
+152
+00:07:13,934 --> 00:07:16,519
+もちろん Go(囲碁)は本当に興奮した瞬間でした
+This subtitles are unapproved and need review/approval by TED translators.
+
+153
+00:07:17,437 --> 00:07:21,191
+しかし 私や多くの人々の想像力を本当に魅了したのは
+This subtitles are unapproved and need review/approval by TED translators.
+
+154
+00:07:21,232 --> 00:07:22,692
+近年の言語モデルの
+This subtitles are unapproved and need review/approval by TED translators.
+
+155
+00:07:22,692 --> 00:07:25,946
+驚異的な規模の拡大だと思います
+This subtitles are unapproved and need review/approval by TED translators.
+
+156
+00:07:26,321 --> 00:07:28,281
+これらは 人間が実行するような
+This subtitles are unapproved and need review/approval by TED translators.
+
+157
+00:07:28,281 --> 00:07:31,952
+認知タスクの中でも
+十分に意味のある断片を実際に実行し始める
+This subtitles are unapproved and need review/approval by TED translators.
+
+158
+00:07:31,993 --> 00:07:34,371
+そんなシステムであることがわかると思います
+This subtitles are unapproved and need review/approval by TED translators.
+
+159
+00:07:34,412 --> 00:07:36,414
+CA：さて あなたがそういったモデルに
+This subtitles are unapproved and need review/approval by TED translators.
+
+160
+00:07:36,414 --> 00:07:38,375
+取り組んでいましたが
+This subtitles are unapproved and need review/approval by TED translators.
+
+161
+00:07:38,375 --> 00:07:44,297
+OpenAI による突然の ChatGPT の発表は
+ある意味不意打ちだったのでしょうか？
+This subtitles are unapproved and need review/approval by TED translators.
+
+162
+00:07:44,339 --> 00:07:45,507
+SL：そうですね
+This subtitles are unapproved and need review/approval by TED translators.
+
+163
+00:07:45,507 --> 00:07:47,342
+私たちはそれらに取り組んでいました
+This subtitles are unapproved and need review/approval by TED translators.
+
+164
+00:07:47,342 --> 00:07:49,469
+なんと言っても トランスフォーマーモデルは
+This subtitles are unapproved and need review/approval by TED translators.
+
+
+165
+00:07:49,511 --> 00:07:54,808
+グーグルで発明され 大規模なトランスフォーマー型言語モデルや
+それ以外なものを構築しているチームがありました
+This subtitles are unapproved and need review/approval by TED translators.
+
+166
+00:07:55,183 --> 00:07:58,353
+CA：グーグルはこの取り組み中にDeepMind を買収しましたね
+This subtitles are unapproved and need review/approval by TED translators.
+
+167
+00:07:58,395 --> 00:07:59,729
+SL：ええ その通りです
+This subtitles are unapproved and need review/approval by TED translators.
+
+168
+00:07:59,729 --> 00:08:03,775
+私の想像と違っていたのは
+This subtitles are unapproved and need review/approval by TED translators.
+
+169
+00:08:03,775 --> 00:08:08,488
+純粋に文字情報だけで それほどまでに
+優れた学習を行ったモデルが作れるということでした
+This subtitles are unapproved and need review/approval by TED translators.
+
+170
+00:08:08,488 --> 00:08:11,199
+もっと多様な様式が必要だと思っていました
+This subtitles are unapproved and need review/approval by TED translators.
+
+171
+00:08:11,241 --> 00:08:14,953
+画像が必要で 音が必要で
+動画なども必要だっただろうと
+This subtitles are unapproved and need review/approval by TED translators.
+
+172
+00:08:14,995 --> 00:08:18,665
+しかし 文字情報が膨大な量になることによって
+This subtitles are unapproved and need review/approval by TED translators.
+
+173
+00:08:18,707 --> 00:08:21,459
+これらをある程度補うことができます
+This subtitles are unapproved and need review/approval by TED translators.
+
+174
+00:08:21,876 --> 00:08:24,504
+まだ この側面はあると思います
+This subtitles are unapproved and need review/approval by TED translators.
+
+175
+00:08:24,504 --> 00:08:27,674
+言語モデルは 文字情報で表現しにくい領域については
+This subtitles are unapproved and need review/approval by TED translators.
+
+176
+00:08:27,674 --> 00:08:30,885
+弱い傾向があると思います
+This subtitles are unapproved and need review/approval by TED translators.
+
+177
+00:08:30,885 --> 00:08:33,304
+しかし これが根本的な制限ではないと思います
+This subtitles are unapproved and need review/approval by TED translators.
+
+178
+00:08:33,304 --> 00:08:38,268
+これらの言語モデルが動画、画像
+音声などのあらゆるものに
+This subtitles are unapproved and need review/approval by TED translators.
+
+179
+00:08:38,309 --> 00:08:40,520
+拡張されることになり
+This subtitles are unapproved and need review/approval by TED translators.
+
+180
+00:08:40,520 --> 00:08:42,564
+これらも やがて克服されるでしょう
+This subtitles are unapproved and need review/approval by TED translators.
+
+181
+00:08:43,064 --> 00:08:44,399
+CA：シェーン 次に
+This subtitles are unapproved and need review/approval by TED translators.
+
+182
+00:08:44,441 --> 00:08:47,402
+世界がもっと説得力を持って考える必要があると
+This subtitles are unapproved and need review/approval by TED translators.
+
+183
+00:08:47,402 --> 00:08:52,157
+あなたが現時点で真剣に
+感じていることについて話してください
+This subtitles are unapproved and need review/approval by TED translators.
+
+184
+00:08:52,198 --> 00:08:53,366
+SL：そうですね
+This subtitles are unapproved and need review/approval by TED translators.
+
+185
+00:08:53,366 --> 00:08:55,994
+非常に強力で
+This subtitles are unapproved and need review/approval by TED translators.
+
+186
+00:08:56,036 --> 00:08:59,539
+非常に知的な人工知能が
+登場すると思います
+This subtitles are unapproved and need review/approval by TED translators.
+
+187
+00:08:59,998 --> 00:09:02,667
+これは非常に可能性が高いと思います
+This subtitles are unapproved and need review/approval by TED translators.
+
+188
+00:09:02,709 --> 00:09:04,294
+今日ではないと思いますし
+This subtitles are unapproved and need review/approval by TED translators.
+
+189
+00:09:04,294 --> 00:09:06,838
+来年も再来年も来るとは思えないし
+This subtitles are unapproved and need review/approval by TED translators.
+
+190
+00:09:06,838 --> 00:09:09,257
+それよりも少し遠い将来だと思います
+This subtitles are unapproved and need review/approval by TED translators.
+
+191
+00:09:09,299 --> 00:09:10,592
+CA：2028年ですか？
+This subtitles are unapproved and need review/approval by TED translators.
+
+
+192
+00:09:10,592 --> 00:09:12,886
+SL：2028年 その可能性は50%です
+This subtitles are unapproved and need review/approval by TED translators.
+
+193
+00:09:12,886 --> 00:09:14,929
+つまり 2028 年に起こらなくても
+This subtitles are unapproved and need review/approval by TED translators.
+
+194
+00:09:14,929 --> 00:09:16,931
+もちろん驚くつもりはありません
+This subtitles are unapproved and need review/approval by TED translators.
+
+195
+00:09:16,973 --> 00:09:18,433
+CA：パワフルといえば
+This subtitles are unapproved and need review/approval by TED translators.
+
+196
+00:09:18,433 --> 00:09:20,560
+つまり 強力なAIがすでに存在しています
+This subtitles are unapproved and need review/approval by TED translators.
+
+197
+00:09:20,560 --> 00:09:22,353
+しかし あなたが言うのは つまり
+This subtitles are unapproved and need review/approval by TED translators.
+
+198
+00:09:22,353 --> 00:09:24,481
+ある種の汎用人工知能が登場するということですね
+This subtitles are unapproved and need review/approval by TED translators.
+
+199
+00:09:24,522 --> 00:09:25,648
+SL：そうですね
+This subtitles are unapproved and need review/approval by TED translators.
+
+200
+00:09:25,690 --> 00:09:28,401
+CA：それでは それが
+どんな感じのものか教えてください
+This subtitles are unapproved and need review/approval by TED translators.
+
+201
+00:09:28,401 --> 00:09:31,071
+SL：そうですね 汎用人工知能があれば
+This subtitles are unapproved and need review/approval by TED translators.
+
+202
+00:09:31,071 --> 00:09:33,490
+あらゆる種類の驚くべきことができるでしょう
+This subtitles are unapproved and need review/approval by TED translators.
+
+203
+00:09:33,531 --> 00:09:36,785
+ちょうど人間の知能が非常に多くの驚くべきことを
+行うことができるのと同じです
+This subtitles are unapproved and need review/approval by TED translators.
+
+204
+00:09:36,826 --> 00:09:38,828
+これは特定の事柄に関するものでは全くなく
+This subtitles are unapproved and need review/approval by TED translators.
+
+205
+00:09:38,870 --> 00:09:40,830
+それが汎用ということの意味なのです
+This subtitles are unapproved and need review/approval by TED translators.
+
+206
+00:09:40,830 --> 00:09:42,582
+しかし 一例を挙げると
+This subtitles are unapproved and need review/approval by TED translators.
+
+207
+00:09:42,582 --> 00:09:44,918
+私たちは AlphaFold を開発しました
+This subtitles are unapproved and need review/approval by TED translators.
+
+208
+00:09:44,959 --> 00:09:50,840
+任意のタンパク質に焦点をあて
+そのタンパク質の形状を計算で推量するシステムです
+This subtitles are unapproved and need review/approval by TED translators.
+
+209
+00:09:50,882 --> 00:09:53,510
+この仕組みを使うことで あらゆる種類の研究を
+This subtitles are unapproved and need review/approval by TED translators.
+
+210
+00:09:53,510 --> 00:09:55,428
+行うことができます
+This subtitles are unapproved and need review/approval by TED translators.
+
+211
+00:09:55,470 --> 00:09:58,056
+生物学的プロセスの理解や
+医薬品の開発なども行えます
+This subtitles are unapproved and need review/approval by TED translators.
+
+212
+00:09:58,056 --> 00:09:59,516
+さて もしあなたに
+This subtitles are unapproved and need review/approval by TED translators.
+
+213
+00:09:59,557 --> 00:10:02,143
+AGI システムがあれば
+DeepMind では
+This subtitles are unapproved and need review/approval by TED translators.
+
+214
+00:10:02,185 --> 00:10:05,105
+約30人の世界レベルで活躍する科学者が
+This subtitles are unapproved and need review/approval by TED translators.
+
+215
+00:10:05,105 --> 00:10:07,774
+約 3 年間かけて開発したものを必要とせず
+This subtitles are unapproved and need review/approval by TED translators.
+
+216
+00:10:07,816 --> 00:10:09,943
+数人の科学者からなる１チームでも
+This subtitles are unapproved and need review/approval by TED translators.
+
+217
+00:10:09,943 --> 00:10:12,153
+１年で開発できるかもしれません
+This subtitles are unapproved and need review/approval by TED translators.
+
+218
+00:10:12,654 --> 00:10:16,407
+さて これらのAlphaFold 程の度合いの進歩が
+This subtitles are unapproved and need review/approval by TED translators.
+
+219
+00:10:16,449 --> 00:10:19,661
+世界中で定期的に起こっていると想像してください
+This subtitles are unapproved and need review/approval by TED translators.
+
+220
+00:10:19,702 --> 00:10:22,205
+これは AGI が可能にするかもしれないことの一種です
+This subtitles are unapproved and need review/approval by TED translators.
+
+221
+00:10:22,497 --> 00:10:26,543
+CA：つまり 例えば私たちが
+AGI を使えるようになると
+This subtitles are unapproved and need review/approval by TED translators.
+
+222
+00:10:26,584 --> 00:10:29,671
+数か月以内に 人類が何十年
+何世紀にもわたって
+This subtitles are unapproved and need review/approval by TED translators.
+
+223
+00:10:29,671 --> 00:10:33,633
+取り組んできた科学的課題の一部が
+立て続けに崩壊し始めるような
+This subtitles are unapproved and need review/approval by TED translators.
+
+224
+00:10:33,633 --> 00:10:36,594
+可能性が十分にあります
+This subtitles are unapproved and need review/approval by TED translators.
+
+225
+00:10:36,636 --> 00:10:40,765
+SL：そうですね あらゆる種類の
+素晴らしい可能性が開かれると思います
+This subtitles are unapproved and need review/approval by TED translators.
+
+226
+00:10:40,765 --> 00:10:44,978
+そして それは本当に人類の黄金時代となる可能性があり
+This subtitles are unapproved and need review/approval by TED translators.
+
+227
+00:10:45,019 --> 00:10:46,855
+人間の知能が
+This subtitles are unapproved and need review/approval by TED translators.
+
+228
+00:10:46,896 --> 00:10:51,276
+機械知能によって支援され拡張され
+This subtitles are unapproved and need review/approval by TED translators.
+
+229
+00:10:51,276 --> 00:10:53,736
+あらゆる種類の素晴らしいことが可能になり
+This subtitles are unapproved and need review/approval by TED translators.
+
+230
+00:10:53,778 --> 00:10:58,700
+以前は手に負えなかった問題を
+解決できるようになります
+This subtitles are unapproved and need review/approval by TED translators.
+
+231
+00:10:58,700 --> 00:11:00,201
+CA：話を戻しましょう
+This subtitles are unapproved and need review/approval by TED translators.
+
+232
+00:11:00,243 --> 00:11:01,828
+とはいえ あなたも
+This subtitles are unapproved and need review/approval by TED translators.
+
+233
+00:11:01,828 --> 00:11:04,080
+救いようのないほどの楽観主義者というだけではなく
+This subtitles are unapproved and need review/approval by TED translators.
+
+234
+00:11:04,122 --> 00:11:08,042
+別の方向に非常に悪い方向に進む
+可能性があると考えていますが
+This subtitles are unapproved and need review/approval by TED translators.
+
+235
+00:11:08,042 --> 00:11:10,753
+その経路がどのようなものになるか話してください
+This subtitles are unapproved and need review/approval by TED translators.
+
+236
+00:11:10,753 --> 00:11:12,714
+SL：そうですね 説明しますと
+This subtitles are unapproved and need review/approval by TED translators.
+
+237
+00:11:13,548 --> 00:11:15,133
+私は 物事が非常にうまくいくと
+This subtitles are unapproved and need review/approval by TED translators.
+
+238
+00:11:15,175 --> 00:11:17,427
+確信している人々を信じませんし
+This subtitles are unapproved and need review/approval by TED translators.
+
+239
+00:11:17,468 --> 00:11:18,928
+非常に非常に悪い方向に進むと
+This subtitles are unapproved and need review/approval by TED translators.
+
+240
+00:11:18,928 --> 00:11:21,389
+確信している人々も信じません
+This subtitles are unapproved and need review/approval by TED translators.
+
+241
+00:11:21,389 --> 00:11:25,435
+なぜなら 私たちが話しているのは
+信じられないほど奥深い移行だからです
+This subtitles are unapproved and need review/approval by TED translators.
+
+242
+00:11:25,852 --> 00:11:29,063
+それは人類の知能が世界に到来したようなものです
+This subtitles are unapproved and need review/approval by TED translators.
+
+243
+00:11:29,105 --> 00:11:32,066
+これは 別の知能が世界に到着してくるようなものです
+This subtitles are unapproved and need review/approval by TED translators.
+
+244
+00:11:32,108 --> 00:11:35,153
+したがって これは信じられないほど深い移行で
+This subtitles are unapproved and need review/approval by TED translators.
+
+245
+00:11:35,153 --> 00:11:38,281
+私たちはこれがもたらすすべての影響と結果を完全に
+This subtitles are unapproved and need review/approval by TED translators.
+
+246
+00:11:38,281 --> 00:11:39,866
+理解しているわけではありません
+This subtitles are unapproved and need review/approval by TED translators.
+
+247
+00:11:39,908 --> 00:11:41,326
+したがって それが
+This subtitles are unapproved and need review/approval by TED translators.
+
+248
+00:11:41,367 --> 00:11:43,828
+ああなる こうなると確信することはできません
+This subtitles are unapproved and need review/approval by TED translators.
+
+249
+00:11:43,828 --> 00:11:47,040
+だから 私たちは起こりうることについて
+柔軟でいる必要があります
+This subtitles are unapproved and need review/approval by TED translators.
+
+250
+00:11:47,832 --> 00:11:49,751
+私はある程度楽観的で それは
+This subtitles are unapproved and need review/approval by TED translators.
+
+251
+00:11:49,751 --> 00:11:52,837
+システムを安全にしたいのであれば
+This subtitles are unapproved and need review/approval by TED translators.
+
+252
+00:11:52,879 --> 00:11:55,548
+そのシステムについて多くのことを理解する必要があります
+This subtitles are unapproved and need review/approval by TED translators.
+
+253
+00:11:55,590 --> 00:11:57,258
+飛行機の仕組みを知らなければ
+This subtitles are unapproved and need review/approval by TED translators.
+
+254
+00:11:57,300 --> 00:11:59,928
+飛行機を安全にすることはできません
+This subtitles are unapproved and need review/approval by TED translators.
+
+255
+00:12:00,261 --> 00:12:02,513
+したがって AGI に近づくにつれて
+This subtitles are unapproved and need review/approval by TED translators.
+
+256
+00:12:02,555 --> 00:12:05,058
+これらのシステムについての理解が深まって
+This subtitles are unapproved and need review/approval by TED translators.
+
+257
+00:12:05,058 --> 00:12:08,061
+これらのシステムを安全で高度に倫理的なAI システムを
+This subtitles are unapproved and need review/approval by TED translators.
+
+258
+00:12:08,061 --> 00:12:10,772
+作成するためのより多くの方法がわかるようになります
+This subtitles are unapproved and need review/approval by TED translators.
+
+259
+00:12:11,564 --> 00:12:15,151
+しかし 将来についてはわからないことがたくさんあります
+This subtitles are unapproved and need review/approval by TED translators.
+
+260
+00:12:15,193 --> 00:12:20,490
+だから 何が起こるかわからないので
+物事がうまくいかない可能性があることを
+This subtitles are unapproved and need review/approval by TED translators.
+
+261
+00:12:20,490 --> 00:12:22,575
+受け入れなければなりません
+This subtitles are unapproved and need review/approval by TED translators.
+
+262
+00:12:22,617 --> 00:12:25,954
+これほど大きな変化の中では 将来のことはわかりません
+This subtitles are unapproved and need review/approval by TED translators.
+
+263
+00:12:25,954 --> 00:12:30,792
+そして 私たちは たとえ何かが
+うまくいかない可能性が非常に低いとしても
+This subtitles are unapproved and need review/approval by TED translators.
+
+264
+00:12:30,833 --> 00:12:33,211
+これを非常に真剣に受け止める必要があります
+This subtitles are unapproved and need review/approval by TED translators.
+
+265
+00:12:33,211 --> 00:12:36,089
+CA：最悪の事態のシナリオを描いてください
+This subtitles are unapproved and need review/approval by TED translators.
+
+266
+00:12:36,130 --> 00:12:37,840
+SL：そうですね
+This subtitles are unapproved and need review/approval by TED translators.
+
+267
+00:12:37,882 --> 00:12:39,634
+潜在的に超人的な知能を
+This subtitles are unapproved and need review/approval by TED translators.
+
+268
+00:12:39,634 --> 00:12:43,137
+備えたシステムについて話しているので
+それは難しいです
+This subtitles are unapproved and need review/approval by TED translators.
+
+269
+00:12:43,137 --> 00:12:47,600
+ですから 世界には物事がうまくいかない方法がたくさんあります
+This subtitles are unapproved and need review/approval by TED translators.
+
+270
+00:12:47,642 --> 00:12:50,937
+私は知りませんが
+時々人工病原体を指摘する人がいますよね？
+This subtitles are unapproved and need review/approval by TED translators.
+
+271
+00:12:50,937 --> 00:12:54,691
+もしかしたら 超知能が遺伝子操作された
+病原体を設計できるかもしれない
+This subtitles are unapproved and need review/approval by TED translators.
+
+272
+00:12:54,691 --> 00:12:56,943
+もっとありふれたことかもしれない
+This subtitles are unapproved and need review/approval by TED translators.
+
+273
+00:12:56,985 --> 00:12:59,529
+おそらく AGIは
+This subtitles are unapproved and need review/approval by TED translators.
+
+274
+00:12:59,570 --> 00:13:04,158
+プロパガンダやその他あらゆる種類のものによって
+This subtitles are unapproved and need review/approval by TED translators.
+
+275
+00:13:04,200 --> 00:13:07,328
+世界の民主主義を不安定にするために使用されます
+This subtitles are unapproved and need review/approval by TED translators.
+
+276
+00:13:07,370 --> 00:13:08,538
+分からないのは ―
+This subtitles are unapproved and need review/approval by TED translators.
+
+277
+00:13:08,579 --> 00:13:10,581
+CA：すでに起こっているかもしれません
+This subtitles are unapproved and need review/approval by TED translators.
+
+278
+00:13:10,581 --> 00:13:12,583
+SL：すでに少しずつ起こっているかもしれません
+This subtitles are unapproved and need review/approval by TED translators.
+
+279
+00:13:12,625 --> 00:13:14,794
+もっと強力なシステムがあれば
+This subtitles are unapproved and need review/approval by TED translators.
+
+280
+00:13:14,794 --> 00:13:16,421
+もっと多く起こるかもしれません
+This subtitles are unapproved and need review/approval by TED translators.
+
+281
+00:13:16,421 --> 00:13:19,340
+社会を不安定にする数多くの方法があります
+This subtitles are unapproved and need review/approval by TED translators.
+
+282
+00:13:19,382 --> 00:13:21,426
+その例は歴史の本にも見つけられます
+This subtitles are unapproved and need review/approval by TED translators.
+
+283
+00:13:21,467 --> 00:13:24,012
+CA：シェーン 想像してください
+This subtitles are unapproved and need review/approval by TED translators.
+
+284
+00:13:24,012 --> 00:13:28,349
+もし たとえば 15 年前に あなたが全人類に
+「さて 私たちはここでドアを開けると
+This subtitles are unapproved and need review/approval by TED translators.
+
+285
+00:13:28,391 --> 00:13:32,061
+開けることが人類にとって
+史上最高の結果につながるかもしれないのですが
+This subtitles are unapproved and need review/approval by TED translators.
+
+286
+00:13:32,103 --> 00:13:33,896
+実は たとえば５%超で
+This subtitles are unapproved and need review/approval by TED translators.
+
+287
+00:13:33,896 --> 00:13:36,441
+私たちの文明が破壊される可能性も
+This subtitles are unapproved and need review/approval by TED translators.
+
+288
+00:13:36,482 --> 00:13:39,235
+十分にあります」と聞けたとしたら
+This subtitles are unapproved and need review/approval by TED translators.
+
+289
+00:13:39,736 --> 00:13:43,072
+ほとんどの人が実は「そんなクソドアを開ける勇気はない
+This subtitles are unapproved and need review/approval by TED translators.
+
+290
+00:13:43,114 --> 00:13:44,866
+待ちましょう」と言う
+This subtitles are unapproved and need review/approval by TED translators.
+
+291
+00:13:44,907 --> 00:13:46,075
+可能性はありませんか？
+This subtitles are unapproved and need review/approval by TED translators.
+
+292
+00:13:46,826 --> 00:13:50,913
+SL：もし魔法の杖を持っていて
+物事の進行を遅らせることができるのだったら
+This subtitles are unapproved and need review/approval by TED translators.
+
+293
+00:13:50,955 --> 00:13:53,291
+私はその魔法の杖を使うでしょうが
+私にはありません
+This subtitles are unapproved and need review/approval by TED translators.
+
+294
+00:13:53,291 --> 00:13:55,126
+現在 最先端のモデルを
+This subtitles are unapproved and need review/approval by TED translators.
+
+295
+00:13:55,126 --> 00:13:57,587
+開発できる企業は
+This subtitles are unapproved and need review/approval by TED translators.
+
+296
+00:13:57,587 --> 00:14:02,008
+思うに 世界中に数十社
+おそらく10社ほどです
+This subtitles are unapproved and need review/approval by TED translators.
+
+297
+00:14:02,008 --> 00:14:06,095
+その中には 秘密プロジェクトを行っている
+国家情報機関も含まれていると思います
+This subtitles are unapproved and need review/approval by TED translators.
+
+298
+00:14:06,763 --> 00:14:08,264
+ハッキリとは言えませんが
+This subtitles are unapproved and need review/approval by TED translators.
+
+299
+00:14:08,264 --> 00:14:11,768
+１世代遅れのものを開発できる企業は何十社です
+This subtitles are unapproved and need review/approval by TED translators.
+
+300
+00:14:11,768 --> 00:14:15,146
+そして 知能には非常に価値があることを忘れないでください
+This subtitles are unapproved and need review/approval by TED translators.
+
+301
+00:14:15,188 --> 00:14:16,356
+とても便利です
+This subtitles are unapproved and need review/approval by TED translators.
+
+302
+00:14:16,356 --> 00:14:17,523
+私たちが取り組む理由は
+This subtitles are unapproved and need review/approval by TED translators.
+
+303
+00:14:17,565 --> 00:14:20,651
+あらゆる種類の目的のために
+これによってあらゆる種類の価値が
+This subtitles are unapproved and need review/approval by TED translators.
+
+304
+00:14:20,651 --> 00:14:22,403
+生み出されると予見しているからです
+This subtitles are unapproved and need review/approval by TED translators.
+
+305
+00:14:22,403 --> 00:14:25,239
+この進化過程をどうすれば停止できるでしょうか？
+This subtitles are unapproved and need review/approval by TED translators.
+
+306
+00:14:25,281 --> 00:14:28,117
+私が聞く限り この流れを止めるというような現実的な計画は
+This subtitles are unapproved and need review/approval by TED translators.
+
+307
+00:14:28,159 --> 00:14:29,369
+ありません
+This subtitles are unapproved and need review/approval by TED translators.
+
+308
+00:14:29,369 --> 00:14:30,578
+できるとしたら
+This subtitles are unapproved and need review/approval by TED translators.
+
+309
+00:14:30,578 --> 00:14:32,872
+規制を設けることを考えるべきだと思います
+This subtitles are unapproved and need review/approval by TED translators.
+
+310
+00:14:32,914 --> 00:14:36,584
+あらゆる強力なテクノロジーと同様に
+対策を行うべきだと思います
+This subtitles are unapproved and need review/approval by TED translators.
+
+311
+00:14:36,584 --> 00:14:38,461
+AI でも特別なことは何もありません
+This subtitles are unapproved and need review/approval by TED translators.
+
+312
+00:14:38,461 --> 00:14:41,923
+よくもAI 開発過程を規制するなんて
+言えますねという人もいますが
+This subtitles are unapproved and need review/approval by TED translators.
+
+313
+00:14:41,964 --> 00:14:45,802
+私たちは社会の利益のために
+強力なテクノロジーを常に規制してきました
+This subtitles are unapproved and need review/approval by TED translators.
+
+314
+00:14:45,843 --> 00:14:49,263
+これは私たちが注目すべき非常に重要なことだと思います
+This subtitles are unapproved and need review/approval by TED translators.
+
+315
+00:14:49,263 --> 00:14:53,017
+CA：文字通り どのように機能するのか
+完全に理解していないこの超強力な
+This subtitles are unapproved and need review/approval by TED translators.
+
+316
+00:14:53,059 --> 00:14:56,145
+テクノロジーが世の中に登場するのは初めてのことです
+This subtitles are unapproved and need review/approval by TED translators.
+
+317
+00:14:56,145 --> 00:15:00,066
+あなたのお考えでは 私たちがしなければならない最も重要なことは
+This subtitles are unapproved and need review/approval by TED translators.
+
+318
+00:15:00,066 --> 00:15:04,737
+一体何が起こっているのかを理解することであり
+それを正しい方向に導く機会が
+This subtitles are unapproved and need review/approval by TED translators.
+
+319
+00:15:04,779 --> 00:15:07,949
+少なくとも生まれるようにすることなのでしょうか？
+This subtitles are unapproved and need review/approval by TED translators.
+
+320
+00:15:07,949 --> 00:15:11,244
+SL：現時点では AGI 機能の開発には多くの価値があるため
+This subtitles are unapproved and need review/approval by TED translators.
+
+321
+00:15:11,285 --> 00:15:14,330
+この機能には多くのエネルギーが注がれています
+This subtitles are unapproved and need review/approval by TED translators.
+
+322
+00:15:14,330 --> 00:15:18,835
+私たちは 実際の科学にさらに多くのエネルギーが
+注がれるのを見守る必要があると思います
+This subtitles are unapproved and need review/approval by TED translators.
+
+323
+00:15:18,876 --> 00:15:22,004
+これらのニューラルネットワークがなぜ機能するのか
+This subtitles are unapproved and need review/approval by TED translators.
+
+324
+00:15:22,004 --> 00:15:24,173
+何をしているのか
+何をしていないのか
+This subtitles are unapproved and need review/approval by TED translators.
+
+325
+00:15:24,215 --> 00:15:26,050
+どこで失敗やすいのか
+This subtitles are unapproved and need review/approval by TED translators.
+
+
+326
+00:15:26,092 --> 00:15:28,511
+これらをどのように組み合わせるのかを理解して
+This subtitles are unapproved and need review/approval by TED translators.
+
+327
+00:15:28,511 --> 00:15:30,596
+私たちはこれらの AGI システムが
+This subtitles are unapproved and need review/approval by TED translators.
+
+328
+00:15:30,638 --> 00:15:34,767
+非常に倫理的で安全なものにする方法を
+見つけられるようにする必要があります
+This subtitles are unapproved and need review/approval by TED translators.
+
+329
+00:15:34,767 --> 00:15:36,561
+それが可能だと信じています
+This subtitles are unapproved and need review/approval by TED translators.
+
+330
+00:15:37,395 --> 00:15:42,900
+しかし 私たちは これらの解決策を見つけるために
+より多くの人々の心と脳を
+This subtitles are unapproved and need review/approval by TED translators.
+
+331
+00:15:42,942 --> 00:15:45,445
+動員する必要があります
+This subtitles are unapproved and need review/approval by TED translators.
+
+332
+00:15:45,486 --> 00:15:47,321
+そうすることで 最終的には
+This subtitles are unapproved and need review/approval by TED translators.
+
+333
+00:15:47,363 --> 00:15:51,325
+非常に倫理的で安全で
+信じられないほど強力な
+This subtitles are unapproved and need review/approval by TED translators.
+
+334
+00:15:51,367 --> 00:15:54,203
+機械知能が使えるようになり
+This subtitles are unapproved and need review/approval by TED translators.
+
+335
+00:15:54,245 --> 00:15:56,998
+それが人類を強化し 拡張し
+This subtitles are unapproved and need review/approval by TED translators.
+
+336
+00:15:57,039 --> 00:16:01,335
+人類の新しい黄金時代へと推し進めるでしょう
+This subtitles are unapproved and need review/approval by TED translators.
+
+337
+00:16:02,420 --> 00:16:04,881
+CA：シェーン TED に来て将来像を共有してくれて
+This subtitles are unapproved and need review/approval by TED translators.
+
+338
+00:16:04,881 --> 00:16:06,090
+本当にありがとう
+This subtitles are unapproved and need review/approval by TED translators.
+
+339
+00:16:06,090 --> 00:16:07,550
+(拍手)

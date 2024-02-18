@@ -16,11 +16,25 @@ If you are using such tools, adjust the playback start time to <i><b>-4 seconds<
 
 
 <h2>The subtitles on this repo are listed below.</h2>
+On democracy,
+
+| title                                        |speaker| YouTube link                                           | TED site link                                                                                    | Subtitles in SRT                                                           |
+|----------------------------------------------|-|--------------------------------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
+|How to Build a Global Pro-Democracy Movement | Yordanos Eyoel | [YouTube](https://www.youtube.com/watch?v=qjGmzBp2fFk) | [TED.com](https://www.ted.com/talks/yordanos_eyoel_how_to_build_a_global_pro_democracy_movement) | [ja](./001/how_to_build_a_global_pro_democracy_movement_ja_UNAPPROVED.srt) |
+|The Dark Side of Competition in AI           | Liv Boeree | [YouTube](https://www.youtube.com/watch?v=WX_vN1QYgmE) | [TED.com](https://www.ted.com/talks/liv_boeree_the_dark_side_of_competition_in_ai)               | [ja](./001/the_dark_side_of_competition_in_ai_ja_UNAPPROVED.srt)           |
+|Is Technology Our Savior — or Our Slayer? | Ruha Benjamin | [YouTube](https://www.youtube.com/watch?v=QO3nY_u6hos) | [TED.com](https://www.ted.com/talks/ruha_benjamin_is_technology_our_savior_or_our_slayer)        | [ja](./001/is_technology_our_savior_or_our_slayer_ja_UNAPPROVED.srt)       |
+|Your Creative Superpowers Can Help Protect Democracy | Sofia Ongele | [YouTube](https://www.youtube.com/watch?v=LPW5Zx3ntZo)| [TED.com](https://www.ted.com/talks/sofia_ongele_your_creative_superpowers_can_help_protect_democracy)|  [ja](./001/your_creative_superpowers_can_help_protect_democracy_ja_UNAPPROVED.srt)| 
+|Could a DAO Build the Next Great City? | Scott Fitsimones |[YouTube](https://www.youtube.com/watch?v=zTStDvUtQWc)| [TED.com](https://www.ted.com/talks/scott_fitsimones_could_a_dao_build_the_next_great_city)|[ja](./001/could_a_dao_build_the_next_great_city_ja_UNAPPROVED.srt)
+
+
+On AI,
 
 | title                                        |speaker| YouTube link                                         | TED site link                                                                                    | Subtitles in SRT                                                           |
 |----------------------------------------------|-|------------------------------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
-|How to Build a Global Pro-Democracy Movement | Yordanos Eyoel | [YouTube](https://www.youtube.com/watch?v=qjGmzBp2fFk) | [TED.com](https://www.ted.com/talks/yordanos_eyoel_how_to_build_a_global_pro_democracy_movement) | [ja](./001/how_to_build_a_global_pro_democracy_movement_ja_UNAPPROVED.srt) |
-|The Dark Side of Competition in AI           | Liv Boeree | [YouTube](https://www.youtube.com/watch?v=WX_vN1QYgmE)| [TED.com](https://www.ted.com/talks/liv_boeree_the_dark_side_of_competition_in_ai)               | [ja](./001/the_dark_side_of_competition_in_ai_ja_UNAPPROVED.srt)           |
-|Is Technology Our Savior — or Our Slayer? | Ruha Benjamin |[YouTube](https://www.youtube.com/watch?v=QO3nY_u6hos)| [TED.com](https://www.ted.com/talks/ruha_benjamin_is_technology_our_savior_or_our_slayer)        | [ja](./001/is_technology_our_savior_or_our_slayer_ja_UNAPPROVED.srt)       |
-|Could a DAO Build the Next Great City? | Scott Fitsimones |[YouTube](https://www.youtube.com/watch?v=zTStDvUtQWc)| [TED.com](https://www.ted.com/talks/scott_fitsimones_could_a_dao_build_the_next_great_city)|[ja](./001/could_a_dao_build_the_next_great_city_ja_UNAPPROVED.srt)
+|Why AI is incredibly smart and shockingly stupid|Yejin Choi|[YouTube](https://www.youtube.com/watch?v=SvBR0OGT5VI)| [TED.com](https://www.ted.com/talks/yejin_choi_why_ai_is_incredibly_smart_and_shockingly_stupid)|[ja](./001/why_ai_is_incredibly_smart_and_shockingly_stupid_ja_UNAPPROVED.srt)|
+|AI is dangerous, but not for the reasons you think|Sasha Luccioni|[YouTube](https://www.youtube.com/watch?v=eXdVDhOGqoE)| [TED.com](https://www.ted.com/talks/sasha_luccioni_ai_is_dangerous_but_not_for_the_reasons_you_think)|[ja](./001/ai_is_dangerous_but_not_for_the_reasons_you_think_ja_UNAPPROVED.srt)|
+|Will superintelligent AI end the world?|Eliezer Yudkowsky|[YouTube](https://www.youtube.com/watch?v=Yd0yQ9yxSYY)| [TED.com](https://www.ted.com/talks/eliezer_yudkowsky_will_superintelligent_ai_end_the_world)|[ja](./001/will_superintelligent_ai_end_the_world_ja_UNAPPROVED.srt)|
+|The transformative potential of AGI — and when it might arrive|Shane Legg and Chris Anderson|[YouTube](https://www.youtube.com/watch?v=kMUdrUP-QCs)| [TED.com](https://www.ted.com/talks/shane_legg_and_chris_anderson_the_transformative_potential_of_agi_and_when_it_might_arrive)|[ja](./001/the_transformative_potential_of_agi_and_when_it_might_arrive_ja_UNAPPROVED.srt)|
+
+
 
