@@ -1,0 +1,1070 @@
+1
+00:00:00,834 --> 00:00:05,464
+最近自己紹介する時に
+私の仕事は民主主義とテクノロジーに関するものですと伝えると
+This subtitles are unapproved and need review/approval by TED translators.
+Visit https://www.ted.com/participate/translate to help translate and review talks.
+
+2
+00:00:05,964 --> 00:00:07,174
+相手はこう言いました
+This subtitles are unapproved and need review/approval by TED translators.
+
+3
+00:00:07,174 --> 00:00:08,175
+「スゴイ!
+This subtitles are unapproved and need review/approval by TED translators.
+
+4
+00:00:08,425 --> 00:00:09,760
+それは残念ですね」
+This subtitles are unapproved and need review/approval by TED translators.
+
+5
+00:00:09,760 --> 00:00:11,011
+(笑)
+This subtitles are unapproved and need review/approval by TED translators.
+
+6
+00:00:12,137 --> 00:00:13,847
+でも 私は自分の仕事が大好きです
+This subtitles are unapproved and need review/approval by TED translators.
+
+7
+00:00:14,181 --> 00:00:16,099
+人々のインプットを活用することで
+This subtitles are unapproved and need review/approval by TED translators.
+
+8
+00:00:16,141 --> 00:00:20,354
+テクノロジーの驚異が
+人々に利益をもたらす方向に向けられるような
+This subtitles are unapproved and need review/approval by TED translators.
+
+9
+00:00:20,395 --> 00:00:21,855
+世界を構築できると知っています
+This subtitles are unapproved and need review/approval by TED translators.
+
+10
+00:00:22,648 --> 00:00:27,110
+民主主義を解決すべき問題として捉えることに
+私たちは慣れすぎていますが
+This subtitles are unapproved and need review/approval by TED translators.
+
+11
+00:00:28,529 --> 00:00:31,406
+私は民主主義を
+解決策として捉えています
+This subtitles are unapproved and need review/approval by TED translators.
+
+12
+00:00:31,406 --> 00:00:33,242
+問題としてではありません
+This subtitles are unapproved and need review/approval by TED translators.
+
+13
+00:00:34,409 --> 00:00:37,412
+民主主義はかつては
+過激な政治プロジェクトでしたが
+This subtitles are unapproved and need review/approval by TED translators.
+
+14
+00:00:37,412 --> 00:00:40,499
+それ自体が最先端のソーシャルテクノロジーで
+This subtitles are unapproved and need review/approval by TED translators.
+
+15
+00:00:40,541 --> 00:00:45,337
+私たちが今直面している
+まさにその質問に答える新しい方法で
+This subtitles are unapproved and need review/approval by TED translators.
+
+16
+00:00:45,337 --> 00:00:48,131
+人工知能の時代でのこんな問いです
+どうすれば
+This subtitles are unapproved and need review/approval by TED translators.
+
+17
+00:00:48,131 --> 00:00:52,886
+私たちはお互いの能力を活用して
+折り合いながら暮らしていくことができるでしょうか？
+This subtitles are unapproved and need review/approval by TED translators.
+
+18
+00:00:52,886 --> 00:00:59,893
+AI のような革新的なテクノロジーは
+民主的に統治するには
+This subtitles are unapproved and need review/approval by TED translators.
+
+19
+00:00:59,935 --> 00:01:02,354
+複雑すぎたり
+リスクが高すぎたり
+This subtitles are unapproved and need review/approval by TED translators.
+
+20
+00:01:02,396 --> 00:01:05,941
+あるいは重要すぎる
+と言われます
+This subtitles are unapproved and need review/approval by TED translators.
+
+21
+00:01:07,150 --> 00:01:10,612
+しかし だからこそ
+民主的にしなければならないのです
+This subtitles are unapproved and need review/approval by TED translators.
+
+22
+00:01:10,612 --> 00:01:13,156
+既存の民主主義が
+その任務に不平等であるならば
+This subtitles are unapproved and need review/approval by TED translators.
+
+23
+00:01:13,198 --> 00:01:15,367
+私たちの仕事は
+民主主義を諦めることではなく
+This subtitles are unapproved and need review/approval by TED translators.
+
+24
+00:01:15,867 --> 00:01:18,412
+私たちの仕事は
+民主主義を進化させること そして
+This subtitles are unapproved and need review/approval by TED translators.
+
+25
+00:01:19,246 --> 00:01:22,499
+そんな民主主義を実現するための資産として
+テクノロジーを活用することです
+This subtitles are unapproved and need review/approval by TED translators.
+
+26
+00:01:22,499 --> 00:01:25,502
+それでも 自己紹介の時の
+相手の疑問は理解できます
+This subtitles are unapproved and need review/approval by TED translators.
+
+27
+00:01:25,836 --> 00:01:29,506
+新しい形の民主主義を中心に
+自分の人生を築くつもりはありませんでした
+This subtitles are unapproved and need review/approval by TED translators.
+
+28
+00:01:29,506 --> 00:01:33,510
+それは まずは私が 科学の力を
+心から信じたところから始まりました
+This subtitles are unapproved and need review/approval by TED translators.
+
+29
+00:01:33,510 --> 00:01:39,057
+12歳のとき 私は
+キッチンでDNAを操作していました
+This subtitles are unapproved and need review/approval by TED translators.
+
+30
+00:01:39,057 --> 00:01:42,811
+そして 私が計算生物学専攻として
+スタンフォードに入学したとき
+This subtitles are unapproved and need review/approval by TED translators.
+
+31
+00:01:42,811 --> 00:01:46,106
+私は新しい信念を持つようになりました
+テクノロジーです
+This subtitles are unapproved and need review/approval by TED translators.
+
+32
+00:01:46,440 --> 00:01:49,443
+テクノロジーの力が世界を変えると
+私は心から信じていました
+This subtitles are unapproved and need review/approval by TED translators.
+
+33
+00:01:49,443 --> 00:01:51,194
+おそらく 皆さんの多くと同じようにです
+This subtitles are unapproved and need review/approval by TED translators.
+
+34
+00:01:52,195 --> 00:01:55,073
+しかし 私が考えていたテクノロジーは
+実際に変化をもたらすもので
+This subtitles are unapproved and need review/approval by TED translators.
+
+35
+00:01:55,073 --> 00:01:58,952
+それらは 集団とともに集団のために
+構築されるもので
+This subtitles are unapproved and need review/approval by TED translators.
+
+36
+00:01:59,870 --> 00:02:01,288
+数十億ドルを19個目の
+This subtitles are unapproved and need review/approval by TED translators.
+
+37
+00:02:01,330 --> 00:02:04,458
+依存を加速するソーシャルアプリに
+注ぐものではなく
+This subtitles are unapproved and need review/approval by TED translators.
+
+38
+00:02:05,667 --> 00:02:09,296
+真に新しいものを生み出すものと
+それを人々に利用可能で
+This subtitles are unapproved and need review/approval by TED translators.
+
+39
+00:02:09,296 --> 00:02:12,424
+役立ち 指令できるような形で
+出来上がっているような
+This subtitles are unapproved and need review/approval by TED translators.
+
+40
+00:02:12,424 --> 00:02:14,676
+プロジェクトを考えていました
+This subtitles are unapproved and need review/approval by TED translators.
+
+41
+00:02:15,385 --> 00:02:17,929
+ソーシャルメディアではなく
+インターネットです
+This subtitles are unapproved and need review/approval by TED translators.
+
+42
+00:02:17,929 --> 00:02:21,141
+オープンスタンダードに基づいて
+公開資源を使って構築されるものです
+This subtitles are unapproved and need review/approval by TED translators.
+
+43
+00:02:22,392 --> 00:02:25,062
+これが私を民主主義に導きました
+This subtitles are unapproved and need review/approval by TED translators.
+
+44
+00:02:26,229 --> 00:02:29,316
+テクノロジーは私たちに備わっている力を拡張します
+This subtitles are unapproved and need review/approval by TED translators.
+
+45
+00:02:30,359 --> 00:02:35,447
+民主主義というのは その力を
+どう使うのかを決める方法です
+This subtitles are unapproved and need review/approval by TED translators.
+
+46
+00:02:36,615 --> 00:02:40,327
+それ以来 私は民主主義を解決策として
+活用することに取り組んできました
+This subtitles are unapproved and need review/approval by TED translators.
+
+47
+00:02:40,369 --> 00:02:43,664
+インド、米国、英国、台湾
+での活用でした
+This subtitles are unapproved and need review/approval by TED translators.
+
+48
+00:02:43,955 --> 00:02:46,625
+素晴らしい協力者たちと一緒に仕事をして
+This subtitles are unapproved and need review/approval by TED translators.
+
+49
+00:02:46,625 --> 00:02:49,336
+民主主義を利用して
+新型コロナウイルスを解決したり
+This subtitles are unapproved and need review/approval by TED translators.
+
+50
+00:02:49,336 --> 00:02:51,088
+データ権利を解決するものでした
+This subtitles are unapproved and need review/approval by TED translators.
+
+51
+00:02:51,129 --> 00:02:53,256
+そして 今日お話しするように
+This subtitles are unapproved and need review/approval by TED translators.
+
+52
+00:02:53,298 --> 00:02:57,469
+世界中の政策立案者や
+OpenAI やAnthropic などの
+This subtitles are unapproved and need review/approval by TED translators.
+
+53
+00:02:57,511 --> 00:03:02,015
+最先端のテクノロジー企業とともに
+AI ガバナンスの解決に民主主義を利用する仕事をしています
+This subtitles are unapproved and need review/approval by TED translators.
+
+54
+00:03:02,349 --> 00:03:03,517
+どんな仕組みでしょうか？
+This subtitles are unapproved and need review/approval by TED translators.
+
+55
+00:03:03,934 --> 00:03:08,480
+民主主義がまだ初期段階にあることを
+認識することで行います
+This subtitles are unapproved and need review/approval by TED translators.
+
+56
+00:03:09,022 --> 00:03:12,818
+それは集合知の初期の形態で
+This subtitles are unapproved and need review/approval by TED translators.
+
+57
+00:03:12,859 --> 00:03:17,614
+多様な入口からの
+分散型のインプットをまとめて
+This subtitles are unapproved and need review/approval by TED translators.
+
+58
+00:03:17,656 --> 00:03:21,827
+それぞれを足し合わせたものよりも
+優れた意思決定を導き出すことができます
+This subtitles are unapproved and need review/approval by TED translators.
+
+59
+00:03:22,661 --> 00:03:26,581
+だからこそ 私の素晴らしい共同創設者である
+サフラン・ファンと私が
+This subtitles are unapproved and need review/approval by TED translators.
+
+60
+00:03:26,623 --> 00:03:29,710
+Google DeepMindとMicrosoft を辞めて
+This subtitles are unapproved and need review/approval by TED translators.
+
+61
+00:03:29,710 --> 00:03:33,839
+革新的なテクノロジーのための
+新しい民主的ガバナンスモデルの構築を目指して
+This subtitles are unapproved and need review/approval by TED translators.
+
+62
+00:03:33,880 --> 00:03:37,968
+私たちの非営利団体を集合知プロジェクト
+(Collective Intelligence Project)を始めました
+This subtitles are unapproved and need review/approval by TED translators.
+
+63
+00:03:38,927 --> 00:03:45,183
+集団の繁栄のために 集合知を構築するという
+進化し続けるプロジェクトを
+This subtitles are unapproved and need review/approval by TED translators.
+
+64
+00:03:45,225 --> 00:03:47,519
+敬意をもって
+そう名付けました
+This subtitles are unapproved and need review/approval by TED translators.
+
+65
+00:03:48,729 --> 00:03:50,981
+それ以来
+私たちはそれだけを実施し
+This subtitles are unapproved and need review/approval by TED translators.
+
+66
+00:03:50,981 --> 00:03:55,569
+民主的なプロセスを実行しつつ
+人工知能を制御できるような
+This subtitles are unapproved and need review/approval by TED translators.
+
+67
+00:03:55,569 --> 00:03:57,738
+新しい集合知モデルを構築てきました
+This subtitles are unapproved and need review/approval by TED translators.
+
+68
+00:03:57,738 --> 00:04:01,616
+そして私たちは何千人もの人々の声を
+AI ガバナンスに取り入れてきました
+This subtitles are unapproved and need review/approval by TED translators.
+
+69
+00:04:02,743 --> 00:04:04,786
+私たちが学んだことを紹介します
+This subtitles are unapproved and need review/approval by TED translators.
+
+70
+00:04:05,495 --> 00:04:10,333
+第一に 人々は困難で絶妙な意味合いを含んだ話題に
+関する複雑な会話を行えう意欲と能力を
+This subtitles are unapproved and need review/approval by TED translators.
+
+71
+00:04:10,333 --> 00:04:13,211
+持っています
+This subtitles are unapproved and need review/approval by TED translators.
+
+72
+00:04:13,879 --> 00:04:18,258
+例えば 最も懸念しているAI のリスクについて
+人々に尋ねたところ
+This subtitles are unapproved and need review/approval by TED translators.
+
+73
+00:04:18,258 --> 00:04:20,177
+安直な答には向かいませんでした
+This subtitles are unapproved and need review/approval by TED translators.
+
+74
+00:04:20,969 --> 00:04:23,138
+提示された100以上のリスクのうち
+This subtitles are unapproved and need review/approval by TED translators.
+
+75
+00:04:23,180 --> 00:04:28,393
+最もよく言われたリスクは
+理解できないシステムへの過度の依存でした
+This subtitles are unapproved and need review/approval by TED translators.
+
+76
+00:04:28,935 --> 00:04:30,812
+私たちは全国の人々と話をしました
+This subtitles are unapproved and need review/approval by TED translators.
+
+77
+00:04:30,812 --> 00:04:34,149
+中西部の退役軍人から
+南部の若い教師までを含みます
+This subtitles are unapproved and need review/approval by TED translators.
+
+78
+00:04:34,149 --> 00:04:37,819
+人々はこのテクノロジーの可能性に
+興奮していましたが
+This subtitles are unapproved and need review/approval by TED translators.
+
+79
+00:04:37,819 --> 00:04:40,530
+彼らは
+モデルが世に展開される前に
+This subtitles are unapproved and need review/approval by TED translators.
+
+80
+00:04:40,530 --> 00:04:44,367
+そのモデルがどのような能力を備えているのかを
+知りたいと 特に願っていました
+This subtitles are unapproved and need review/approval by TED translators.
+
+81
+00:04:45,202 --> 00:04:49,247
+私たちが参加している政策に関する議論の多くよりも
+はるかに合理的です
+This subtitles are unapproved and need review/approval by TED translators.
+
+82
+00:04:49,831 --> 00:04:53,210
+私たちは頻繁に聞くような
+二極化はほとんど見られませんでした
+This subtitles are unapproved and need review/approval by TED translators.
+
+83
+00:04:53,251 --> 00:04:54,836
+これは重要なことです
+This subtitles are unapproved and need review/approval by TED translators.
+
+84
+00:04:55,545 --> 00:04:58,548
+何百もの合意声明に対して
+意見を対立させる発言は平均すると
+This subtitles are unapproved and need review/approval by TED translators.
+
+85
+00:04:58,590 --> 00:05:01,134
+ほんの数件だけでした
+This subtitles are unapproved and need review/approval by TED translators.
+
+86
+00:05:01,885 --> 00:05:03,887
+現在 論争の的の問題であってもです
+This subtitles are unapproved and need review/approval by TED translators.
+
+87
+00:05:03,929 --> 00:05:06,097
+言論の自由や人種や性別などでも
+This subtitles are unapproved and need review/approval by TED translators.
+
+88
+00:05:06,139 --> 00:05:08,934
+意見の相違よりも
+同意の方がはるかに多かったです
+This subtitles are unapproved and need review/approval by TED translators.
+
+89
+00:05:09,893 --> 00:05:13,647
+ほぼ4分の3の人が AI が言論の自由が
+保護されるべきであることに同意し
+This subtitles are unapproved and need review/approval by TED translators.
+
+90
+00:05:13,647 --> 00:05:17,192
+90%がAI は人種的または性差的差別を
+避けるべきことに同意しました
+This subtitles are unapproved and need review/approval by TED translators.
+
+91
+00:05:18,151 --> 00:05:21,029
+AI は面白くあるべきだと考える人は
+わずか50%程度でしたけど
+This subtitles are unapproved and need review/approval by TED translators.
+
+92
+00:05:21,029 --> 00:05:23,323
+したがって 依然として
+議論の余地のある事柄です
+This subtitles are unapproved and need review/approval by TED translators.
+
+93
+00:05:25,283 --> 00:05:26,868
+さらに 最後の統計は
+This subtitles are unapproved and need review/approval by TED translators.
+
+94
+00:05:26,910 --> 00:05:30,622
+共同憲法プロジェクトのもので
+Anthropicという
+This subtitles are unapproved and need review/approval by TED translators.
+
+95
+00:05:30,622 --> 00:05:34,000
+世界で最も強力な言語モデルの1つに対して
+アメリカ人を代表するような
+This subtitles are unapproved and need review/approval by TED translators.
+
+96
+00:05:34,000 --> 00:05:37,671
+1,000人が書いた原則に基づいて
+再トレーニングしたものです
+This subtitles are unapproved and need review/approval by TED translators.
+
+97
+00:05:38,255 --> 00:05:43,593
+対象者は AI 開発者でも 規制当局でも
+エリート大学の研究者でもありません
+This subtitles are unapproved and need review/approval by TED translators.
+
+98
+00:05:43,927 --> 00:05:45,971
+私たちはAI を
+書かれた一連の原則や憲法をつかって
+This subtitles are unapproved and need review/approval by TED translators.
+
+99
+00:05:45,971 --> 00:05:49,391
+トレーニングする方法に基づいて
+構築しました
+This subtitles are unapproved and need review/approval by TED translators.
+
+100
+00:05:49,432 --> 00:05:52,060
+私たちは一般の人々に
+この憲法の共同作成を依頼し
+This subtitles are unapproved and need review/approval by TED translators.
+
+101
+00:05:52,102 --> 00:05:55,105
+研究者が考え出したモデルと
+比較しました
+This subtitles are unapproved and need review/approval by TED translators.
+
+102
+00:05:55,730 --> 00:05:59,776
+このプロジェクトを開始したときには
+何を期待していいのかわかりませんでした
+This subtitles are unapproved and need review/approval by TED translators.
+
+103
+00:06:00,277 --> 00:06:02,070
+反対派が正しかったかもしれません
+This subtitles are unapproved and need review/approval by TED translators.
+
+104
+00:06:02,487 --> 00:06:03,905
+AI は複雑です
+This subtitles are unapproved and need review/approval by TED translators.
+
+105
+00:06:04,948 --> 00:06:07,784
+人々は何を尋ねられているのか
+理解できないかもしれません
+This subtitles are unapproved and need review/approval by TED translators.
+
+106
+00:06:08,326 --> 00:06:10,579
+とんでもないことに
+なるかもしれません
+This subtitles are unapproved and need review/approval by TED translators.
+
+107
+00:06:11,872 --> 00:06:15,792
+しかし 共同作成された憲法に基づいて
+トレーニングされた人民モデルは
+This subtitles are unapproved and need review/approval by TED translators.
+
+108
+00:06:15,792 --> 00:06:19,838
+研究者たちが考え出したモデルと
+同じくらい有能で
+This subtitles are unapproved and need review/approval by TED translators.
+
+109
+00:06:19,838 --> 00:06:22,299
+より公平なものでした
+This subtitles are unapproved and need review/approval by TED translators.
+
+110
+00:06:22,883 --> 00:06:25,760
+AI の経験がほとんどない人が
+This subtitles are unapproved and need review/approval by TED translators.
+
+111
+00:06:25,802 --> 00:06:29,389
+研究にフルタイムで取り組んでいる研究者よりも
+This subtitles are unapproved and need review/approval by TED translators.
+
+112
+00:06:29,431 --> 00:06:31,975
+公平なチャットボットの構築に
+優れた結果を出しました
+This subtitles are unapproved and need review/approval by TED translators.
+
+113
+00:06:32,642 --> 00:06:34,769
+驚くことでも
+なかったのかもしれません
+This subtitles are unapproved and need review/approval by TED translators.
+
+114
+00:06:34,811 --> 00:06:38,398
+別の機会では こう発言した
+参加者が一人いました
+This subtitles are unapproved and need review/approval by TED translators.
+
+115
+00:06:38,440 --> 00:06:42,152
+「彼らはAI の専門家かもしれませんが
+私には８人の孫がいます
+This subtitles are unapproved and need review/approval by TED translators.
+
+116
+00:06:42,193 --> 00:06:44,237
+適切な価値の選びかたを
+知っています」
+This subtitles are unapproved and need review/approval by TED translators.
+
+117
+00:06:47,782 --> 00:06:50,285
+もし テクノロジーが
+私たちのできることを拡張し
+This subtitles are unapproved and need review/approval by TED translators.
+
+118
+00:06:50,285 --> 00:06:53,705
+民主主義が その能力を
+どう使うかを決める方法だとすると
+This subtitles are unapproved and need review/approval by TED translators.
+
+119
+00:06:53,747 --> 00:06:58,335
+これは 民主主義が
+適切な決定を行えるという初期の証拠です
+This subtitles are unapproved and need review/approval by TED translators.
+
+120
+00:06:59,628 --> 00:07:01,588
+もちろん この経験だけでは
+十分ではありません
+This subtitles are unapproved and need review/approval by TED translators.
+
+121
+00:07:01,630 --> 00:07:04,841
+集合知のためには
+テクノロジーと民主主義を
+This subtitles are unapproved and need review/approval by TED translators.
+
+122
+00:07:04,883 --> 00:07:06,343
+より広く再考する必要があります
+This subtitles are unapproved and need review/approval by TED translators.
+
+123
+00:07:06,343 --> 00:07:09,387
+そのため 私たちは
+AI を構築するデータを共有所有する形にも
+This subtitles are unapproved and need review/approval by TED translators.
+
+124
+00:07:09,429 --> 00:07:14,017
+取り組んでいます
+結局のところ データは私たち全員のものですから
+This subtitles are unapproved and need review/approval by TED translators.
+
+125
+00:07:14,684 --> 00:07:18,980
+また AI 自体を使用して
+新しくより良い意思決定プロセスを作成しています
+This subtitles are unapproved and need review/approval by TED translators.
+
+126
+00:07:19,481 --> 00:07:20,941
+言語モデルには実行可能で
+This subtitles are unapproved and need review/approval by TED translators.
+
+127
+00:07:20,941 --> 00:07:23,109
+人間にはできないことを活かします
+This subtitles are unapproved and need review/approval by TED translators.
+
+128
+00:07:23,109 --> 00:07:25,320
+大量のテキスト情報の処理などです
+This subtitles are unapproved and need review/approval by TED translators.
+
+129
+00:07:26,655 --> 00:07:31,534
+台湾での私たちの仕事は
+これらすべてに対する素晴らしい実験台となりました
+This subtitles are unapproved and need review/approval by TED translators.
+
+130
+00:07:32,994 --> 00:07:37,749
+オードリー・タン大臣
+およびデジタル省とともに
+This subtitles are unapproved and need review/approval by TED translators.
+
+131
+00:07:37,749 --> 00:07:41,503
+私たちは何百万もの台湾国民に
+彼らが実際にAI の未来として
+This subtitles are unapproved and need review/approval by TED translators.
+
+132
+00:07:41,544 --> 00:07:45,423
+望むものは何なのか
+質問する方法に取り組んでいます
+This subtitles are unapproved and need review/approval by TED translators.
+
+133
+00:07:46,466 --> 00:07:49,511
+その情報を単に立法に
+利用するだけではなく
+This subtitles are unapproved and need review/approval by TED translators.
+
+134
+00:07:49,552 --> 00:07:50,679
+構築に使います
+This subtitles are unapproved and need review/approval by TED translators.
+
+135
+00:07:51,262 --> 00:07:54,557
+なぜなら これらのプロセスから
+すでに生まれているものには
+This subtitles are unapproved and need review/approval by TED translators.
+
+136
+00:07:54,599 --> 00:07:58,144
+人々がAI を公開的に選択していっけることに
+心から興奮しているからです
+This subtitles are unapproved and need review/approval by TED translators.
+
+137
+00:07:58,144 --> 00:08:02,357
+確実に安全な共有公開データに
+基づいて構築されて
+This subtitles are unapproved and need review/approval by TED translators.
+
+138
+00:08:02,399 --> 00:08:05,610
+コミュニティが利用し恩恵を受けることができて
+This subtitles are unapproved and need review/approval by TED translators.
+
+139
+00:08:05,652 --> 00:08:07,404
+用途に合わせて調整できるAI です
+This subtitles are unapproved and need review/approval by TED translators.
+
+140
+00:08:08,780 --> 00:08:11,992
+これがテクノロジーの世界の姿かもしれません
+This subtitles are unapproved and need review/approval by TED translators.
+
+141
+00:08:12,367 --> 00:08:14,953
+多数によって多数のために
+運営される仕組みです
+This subtitles are unapproved and need review/approval by TED translators.
+
+142
+00:08:16,788 --> 00:08:20,583
+革新的なテクノロジーに関しては。
+不必要なトレードオフを
+This subtitles are unapproved and need review/approval by TED translators.
+
+143
+00:08:20,583 --> 00:08:22,627
+受け入れていることがよくあります
+This subtitles are unapproved and need review/approval by TED translators.
+
+144
+00:08:23,461 --> 00:08:26,715
+技術の進歩のためには
+民主主義を犠牲にする必要が
+This subtitles are unapproved and need review/approval by TED translators.
+
+145
+00:08:26,715 --> 00:08:29,300
+あるかもしれないと
+私たちは言われます
+This subtitles are unapproved and need review/approval by TED translators.
+
+146
+00:08:29,342 --> 00:08:32,929
+起こり得るリスクから
+自分たちの安全を守るためには
+This subtitles are unapproved and need review/approval by TED translators.
+
+147
+00:08:32,929 --> 00:08:34,431
+権力を集中するしかない
+This subtitles are unapproved and need review/approval by TED translators.
+
+148
+00:08:35,265 --> 00:08:36,891
+これは間違いです
+This subtitles are unapproved and need review/approval by TED translators.
+
+149
+00:08:37,434 --> 00:08:40,895
+次のうちの
+どれか1つでも欠けるのは不可能です
+This subtitles are unapproved and need review/approval by TED translators.
+
+150
+00:08:40,937 --> 00:08:44,607
+進歩、安全、そして民主的参加です
+This subtitles are unapproved and need review/approval by TED translators.
+
+151
+00:08:44,649 --> 00:08:46,151
+どれか１つでも欠かせません
+This subtitles are unapproved and need review/approval by TED translators.
+
+152
+00:08:46,776 --> 00:08:50,196
+もし ３つのうちの
+２つだけを受け入れるなら
+This subtitles are unapproved and need review/approval by TED translators.
+
+153
+00:08:50,238 --> 00:08:53,825
+最終的には集中管理か
+混乱のどちらかを引き起こしてしまいます
+This subtitles are unapproved and need review/approval by TED translators.
+
+154
+00:08:54,325 --> 00:08:58,121
+数人で決定するのか
+誰も決めないかのどちらかです
+This subtitles are unapproved and need review/approval by TED translators.
+
+155
+00:08:58,997 --> 00:09:00,582
+どちらも悲惨な結末ですが
+This subtitles are unapproved and need review/approval by TED translators.
+
+156
+00:09:00,623 --> 00:09:03,460
+私たちの研究は
+別の方法があることを示しています
+This subtitles are unapproved and need review/approval by TED translators.
+
+157
+00:09:04,210 --> 00:09:06,963
+それぞれのプロジェクトが前進しました
+This subtitles are unapproved and need review/approval by TED translators.
+
+158
+00:09:07,005 --> 00:09:10,258
+最先端の民主的AI モデルを構築することや
+This subtitles are unapproved and need review/approval by TED translators.
+
+159
+00:09:10,300 --> 00:09:13,595
+拡散リスクを理解する方法として
+公的専門知識を利用することや
+This subtitles are unapproved and need review/approval by TED translators.
+
+160
+00:09:13,636 --> 00:09:18,349
+そして デジタル・コモンズの
+共同所有モデルを想像することによって
+This subtitles are unapproved and need review/approval by TED translators.
+
+161
+00:09:18,349 --> 00:09:22,020
+それぞれのプロジェクトが
+安全と民主的参加を推し進めてきました
+This subtitles are unapproved and need review/approval by TED translators.
+
+162
+00:09:23,897 --> 00:09:29,319
+私たちは まだ可能な限り最高の
+集合知システムには程遠いのです
+This subtitles are unapproved and need review/approval by TED translators.
+
+163
+00:09:29,986 --> 00:09:34,365
+もし仮に 私たちが世界のための
+意思決定プロセスの構築をやり直せるとしたら
+This subtitles are unapproved and need review/approval by TED translators.
+
+164
+00:09:34,365 --> 00:09:35,742
+私たちは何を選ぶでしょうか？
+This subtitles are unapproved and need review/approval by TED translators.
+
+165
+00:09:36,785 --> 00:09:41,790
+おそらく私たちは金融権力と政治権力を
+分離したほうが良く
+This subtitles are unapproved and need review/approval by TED translators.
+
+166
+00:09:42,791 --> 00:09:45,877
+おそらく私たちは何千もの
+新しい企業の形や官僚制度を
+This subtitles are unapproved and need review/approval by TED translators.
+
+167
+00:09:45,919 --> 00:09:47,337
+生み出すことになるでしょう
+This subtitles are unapproved and need review/approval by TED translators.
+
+168
+00:09:47,879 --> 00:09:51,549
+自然の要素の声を組み込むことになるかもしれませんし
+将来の世代の声を
+This subtitles are unapproved and need review/approval by TED translators.
+
+169
+00:09:51,549 --> 00:09:53,134
+含められるかもしれません
+This subtitles are unapproved and need review/approval by TED translators.
+
+170
+00:09:54,344 --> 00:09:55,637
+これから秘密を話します
+This subtitles are unapproved and need review/approval by TED translators.
+
+171
+00:09:56,304 --> 00:10:00,350
+ある意味 私たちは
+常にゼロからのスタートです
+This subtitles are unapproved and need review/approval by TED translators.
+
+172
+00:10:00,725 --> 00:10:03,853
+新しい集合知システムとともに訪れる
+新しいパラダイムとともに
+This subtitles are unapproved and need review/approval by TED translators.
+
+173
+00:10:03,853 --> 00:10:07,107
+新しいテクノロジーが
+到来する可能性があります
+This subtitles are unapproved and need review/approval by TED translators.
+
+174
+00:10:07,774 --> 00:10:11,778
+この変化のための
+短い限られた機会を利用すれば
+This subtitles are unapproved and need review/approval by TED translators.
+
+175
+00:10:11,820 --> 00:10:15,156
+私たちはみんなが豊かに暮らす
+新しい方法を創造することができます
+This subtitles are unapproved and need review/approval by TED translators.
+
+176
+00:10:16,032 --> 00:10:19,369
+テクノロジーと民主主義の物語は
+まだ終わっていません
+This subtitles are unapproved and need review/approval by TED translators.
+
+177
+00:10:19,410 --> 00:10:21,079
+終わるようなにする必要はありません
+This subtitles are unapproved and need review/approval by TED translators.
+
+178
+00:10:21,538 --> 00:10:23,915
+想像を絶するほど
+良くできる可能性があります
+This subtitles are unapproved and need review/approval by TED translators.
+
+179
+00:10:24,541 --> 00:10:28,294
+インドの作家アルンダティ・ロイは
+かつてこう言いました
+This subtitles are unapproved and need review/approval by TED translators.
+
+180
+00:10:28,336 --> 00:10:31,214
+「別の世界は可能であるだけでなく
+This subtitles are unapproved and need review/approval by TED translators.
+
+181
+00:10:31,256 --> 00:10:32,882
+あちらから近づいています
+This subtitles are unapproved and need review/approval by TED translators.
+
+182
+00:10:33,758 --> 00:10:37,095
+静かな日には
+その息づかいが聞こえます」
+This subtitles are unapproved and need review/approval by TED translators.
+
+183
+00:10:38,304 --> 00:10:40,932
+私たちの新しい世界の
+息吹きが聞こえます
+This subtitles are unapproved and need review/approval by TED translators.
+
+184
+00:10:40,974 --> 00:10:44,060
+既存のシステムを移行するもので
+This subtitles are unapproved and need review/approval by TED translators.
+
+185
+00:10:44,060 --> 00:10:48,565
+私たちが見たい世界を構築するために
+民主主義の解決策を利用する世界へと行くものです
+This subtitles are unapproved and need review/approval by TED translators.
+
+186
+00:10:49,607 --> 00:10:51,151
+未来は私たち次第です
+This subtitles are unapproved and need review/approval by TED translators.
+
+187
+00:10:51,568 --> 00:10:53,236
+この世界で
+勝たなければなりません
+This subtitles are unapproved and need review/approval by TED translators.
+
+188
+00:10:53,862 --> 00:10:55,029
+ありがとうございます
+This subtitles are unapproved and need review/approval by TED translators.
+
+189
+00:10:55,029 --> 00:10:57,699
+(拍手)
